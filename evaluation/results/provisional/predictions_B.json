@@ -1,0 +1,2545 @@
+{
+  "label_status": "PROVISIONAL / AUTO-LABELED",
+  "configuration": "B",
+  "verified_questions": 0,
+  "answerable": [
+    {
+      "question_id": "q001",
+      "question": "What is the MCA for a CyberRow DX CRS-042 at 208 V single-phase 60 Hz?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 25.563300005160272,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5307,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6060954928398132,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 2,
+          "index_position": 5189,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6060954928398132,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 3,
+          "index_position": 5248,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6060953736305237,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 4,
+          "index_position": 5338,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5242792963981628,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 5,
+          "index_position": 5279,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5242792963981628,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q002",
+      "question": "What is the MCA for a CyberRow DX CRS-084 at 208 V three-phase 60 Hz?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 19.772700034081936,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5307,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.5935028195381165,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 2,
+          "index_position": 5189,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.5935028195381165,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 3,
+          "index_position": 5248,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.5935027599334717,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 4,
+          "index_position": 5338,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5285444259643555,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 5,
+          "index_position": 5279,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5285444259643555,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q003",
+      "question": "What flow rate does CyberRow CW CRS-090-C specify at 100°FDB entering air with 40°F EWT and 10°F delta T?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 22.074999986216426,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5128,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c3",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c3",
+          "page": 10,
+          "score": 0.6768971681594849,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "4,137\n21.7\n74,137\n21.7\n12.6\n6.1\n50°F EWT\n10°F ΔT\n66,315\n19.4\n66,315\n19.4\n13.6\n7.0\n12°F ΔT\n61,825\n18.1\n61,825\n18.1\n10.6\n4.4\n80°FDB / 62.8°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n84,202\n24.7\n80,116\n23.5\n17.2\n11.1\n12°F ΔT\n80,458\n23.6\n77,242\n22.6\n13.7\n7.2\n45°F EWT\n10°F ΔT\n65,745\n19.3\n65,745\n19.3\n13.5\n6.9\n12°F ΔT\n61,176\n17.9\n61,176\n17.9\n10.5\n4.3\n50°F EWT\n10°F ΔT\n53,253\n15.6\n53,253\n15.6\n11.0\n4.7\n12°F ΔT\n48,608\n14.2\n48,608\n14.2\n8.4\n2.7\nPerformance Data\nModel CRS-090-C"
+        },
+        {
+          "rank": 2,
+          "index_position": 5073,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p10:c3",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c3",
+          "page": 10,
+          "score": 0.6768971681594849,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "4,137\n21.7\n74,137\n21.7\n12.6\n6.1\n50°F EWT\n10°F ΔT\n66,315\n19.4\n66,315\n19.4\n13.6\n7.0\n12°F ΔT\n61,825\n18.1\n61,825\n18.1\n10.6\n4.4\n80°FDB / 62.8°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n84,202\n24.7\n80,116\n23.5\n17.2\n11.1\n12°F ΔT\n80,458\n23.6\n77,242\n22.6\n13.7\n7.2\n45°F EWT\n10°F ΔT\n65,745\n19.3\n65,745\n19.3\n13.5\n6.9\n12°F ΔT\n61,176\n17.9\n61,176\n17.9\n10.5\n4.3\n50°F EWT\n10°F ΔT\n53,253\n15.6\n53,253\n15.6\n11.0\n4.7\n12°F ΔT\n48,608\n14.2\n48,608\n14.2\n8.4\n2.7\nPerformance Data\nModel CRS-090-C"
+        },
+        {
+          "rank": 3,
+          "index_position": 5018,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf:p10:c3",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c3",
+          "page": 10,
+          "score": 0.6768971681594849,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "4,137\n21.7\n74,137\n21.7\n12.6\n6.1\n50°F EWT\n10°F ΔT\n66,315\n19.4\n66,315\n19.4\n13.6\n7.0\n12°F ΔT\n61,825\n18.1\n61,825\n18.1\n10.6\n4.4\n80°FDB / 62.8°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n84,202\n24.7\n80,116\n23.5\n17.2\n11.1\n12°F ΔT\n80,458\n23.6\n77,242\n22.6\n13.7\n7.2\n45°F EWT\n10°F ΔT\n65,745\n19.3\n65,745\n19.3\n13.5\n6.9\n12°F ΔT\n61,176\n17.9\n61,176\n17.9\n10.5\n4.3\n50°F EWT\n10°F ΔT\n53,253\n15.6\n53,253\n15.6\n11.0\n4.7\n12°F ΔT\n48,608\n14.2\n48,608\n14.2\n8.4\n2.7\nPerformance Data\nModel CRS-090-C"
+        },
+        {
+          "rank": 4,
+          "index_position": 5129,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "page": 11,
+          "score": 0.6497308015823364,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "11\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n24 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n270,762\n79.4\n267,158\n78.3\n56.0\n55.2\n12°F ΔT\n252,610\n74.0\n252,610\n74.0\n43.5\n34.3\n45°F EWT\n10°F ΔT\n235,275\n69.0\n235,275\n69.0\n49.0\n42.6\n12°F ΔT\n228,040\n66.8\n228,040\n66.8\n39.5\n28.4\n50°F EWT\n10°F ΔT\n210,435\n61.7\n210,435\n61.7\n44.0\n34.5\n12°F ΔT\n203,363\n59.6\n203,363\n59.6\n35.5\n23.1\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n245,849\n72.1\n239,969\n70.3\n51.0\n46.4\n12°F ΔT\n239,974\n70.3\n235,218\n68.9\n41.5\n31.5\n45°F EWT\n10°F ΔT\n209,408\n61.4\n209,408\n61.4\n43.5\n34.1\n12°F ΔT\n202,307\n59.3\n202,307\n59.3\n35.2\n22.9\n50°F EWT\n10°F ΔT\n184,879\n54.2\n184,879\n54.2\n39.0\n2"
+        },
+        {
+          "rank": 5,
+          "index_position": 5074,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p11:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "page": 11,
+          "score": 0.6497308015823364,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "11\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n24 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n270,762\n79.4\n267,158\n78.3\n56.0\n55.2\n12°F ΔT\n252,610\n74.0\n252,610\n74.0\n43.5\n34.3\n45°F EWT\n10°F ΔT\n235,275\n69.0\n235,275\n69.0\n49.0\n42.6\n12°F ΔT\n228,040\n66.8\n228,040\n66.8\n39.5\n28.4\n50°F EWT\n10°F ΔT\n210,435\n61.7\n210,435\n61.7\n44.0\n34.5\n12°F ΔT\n203,363\n59.6\n203,363\n59.6\n35.5\n23.1\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n245,849\n72.1\n239,969\n70.3\n51.0\n46.4\n12°F ΔT\n239,974\n70.3\n235,218\n68.9\n41.5\n31.5\n45°F EWT\n10°F ΔT\n209,408\n61.4\n209,408\n61.4\n43.5\n34.1\n12°F ΔT\n202,307\n59.3\n202,307\n59.3\n35.2\n22.9\n50°F EWT\n10°F ΔT\n184,879\n54.2\n184,879\n54.2\n39.0\n2"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q004",
+      "question": "What is the MCA of a CyberOne DX model 042 in cooling-only mode at 208/3/60 without a condensate pump?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 20.16459999140352,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 4950,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5955343246459961,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 2,
+          "index_position": 4848,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5955343246459961,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 3,
+          "index_position": 4746,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (1).pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (1).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5955343246459961,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 4,
+          "index_position": 4987,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "page": 36,
+          "score": 0.5949445962905884,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "nce \nrequirements.\nCondensate Pump\nA condensate pump shall be factory installed within the CyberOne EC DX for automatic removal of \ncondensate and humidiﬁer ﬂush water (if applicable). The condensate pump shall include an internal overﬂow \nsafety ﬂoat which, when wired to the remote start/stop terminals, shall open the unit’s control circuit, thereby \nshutting the unit down in the event of a condensate overﬂow. The condensate pump shall be speciﬁcally \ndesigned to operate with the higher condensate temperatures caused by the ﬂush and drain cycle of the \nelectrode canister humidiﬁers.\nSmoke Detection\nA photo-electric smoke detector shall be factory installed and wired in the return air section of the CyberOne \nEC DX. The photo- electric detector shall include built-in circuitry that perform"
+        },
+        {
+          "rank": 5,
+          "index_position": 4885,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p36:c2",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "page": 36,
+          "score": 0.5949445962905884,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "nce \nrequirements.\nCondensate Pump\nA condensate pump shall be factory installed within the CyberOne EC DX for automatic removal of \ncondensate and humidiﬁer ﬂush water (if applicable). The condensate pump shall include an internal overﬂow \nsafety ﬂoat which, when wired to the remote start/stop terminals, shall open the unit’s control circuit, thereby \nshutting the unit down in the event of a condensate overﬂow. The condensate pump shall be speciﬁcally \ndesigned to operate with the higher condensate temperatures caused by the ﬂush and drain cycle of the \nelectrode canister humidiﬁers.\nSmoke Detection\nA photo-electric smoke detector shall be factory installed and wired in the return air section of the CyberOne \nEC DX. The photo- electric detector shall include built-in circuitry that perform"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q005",
+      "question": "What is the R410A total heat rejection of SCS-MC-015-S at 105°F ambient?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.75410000886768,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5646,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p24:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p24:c1",
+          "page": 24,
+          "score": 0.7065945267677307,
+          "model_families": [],
+          "text": "24\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-056-S\n5.4. SCS-MC-056-S\n5.6. SCS-MC-111-S\n5.5. SCS-MC-071-S"
+        },
+        {
+          "rank": 2,
+          "index_position": 5519,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p24:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p24:c1",
+          "page": 24,
+          "score": 0.7065945267677307,
+          "model_families": [],
+          "text": "24\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-056-S\n5.4. SCS-MC-056-S\n5.6. SCS-MC-111-S\n5.5. SCS-MC-071-S"
+        },
+        {
+          "rank": 3,
+          "index_position": 5392,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p24:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p24:c1",
+          "page": 24,
+          "score": 0.7065945267677307,
+          "model_families": [],
+          "text": "24\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-056-S\n5.4. SCS-MC-056-S\n5.6. SCS-MC-111-S\n5.5. SCS-MC-071-S"
+        },
+        {
+          "rank": 4,
+          "index_position": 5520,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p25:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p25:c1",
+          "page": 25,
+          "score": 0.704364538192749,
+          "model_families": [],
+          "text": "25\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-035-D\n5.7. SCS-MC-031-D\n5.8. SCS-MC-035-D\n5.9. SCS-MC-056-D"
+        },
+        {
+          "rank": 5,
+          "index_position": 5393,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p25:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p25:c1",
+          "page": 25,
+          "score": 0.704364538192749,
+          "model_families": [],
+          "text": "25\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-035-D\n5.7. SCS-MC-031-D\n5.8. SCS-MC-035-D\n5.9. SCS-MC-056-D"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q006",
+      "question": "What is the maximum flow rate of FSS-201A at 95°F ambient with 40% ethylene glycol?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.91889998316765,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 4617,
+          "chunk_id": "STULZ CyberAir DX Engineering Manual.pdf:p16:c2",
+          "source_file": "STULZ CyberAir DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberAir DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberAir DX Engineering Manual.pdf:p16:c2",
+          "page": 16,
+          "score": 0.6470633745193481,
+          "model_families": [
+            "cyberair dx"
+          ],
+          "text": "OOLING CAPACITY - Based on 45°F EGT, 40% Ethylene Glycol Solution (Includes Motor Heat @ Rated CFM & ESP) \n80°FDB/62.9°FWB, 38% RH, 52.3°FDP \nTotal, kW (MBH) \n30.8 (105) \n32.5 (111) \n33.1 (113) \n41.9 (143) \n49.4 (168) \n56.7 (193) \n84.3 (287) \n88.0 (300) \nSensible, kW (MBH) \n30.8 (105) \n32.5 (111) \n33.1 (113) \n41.9 (143) \n49.4 (168) \n56.7 (193) \n84.3 (287) \n88.0 (300) \nFlow Rate, GPM (Unit Press. Drop, ft H2O) \n29 (31) \n34 (39) \n36 (40) \n44 (38) \n56 (42) \n70 (56) \n95 (56) \n105 (69) \n72°FDB/60.0°FWB, 50% RH, 52.3°FDP \nTotal, kW (MBH) \n23.1 (78) \n24.4 (83) \n24.9 (85) \n30.9 (105) \n36.7 (125) \n42.4 (144) \n62.9 (214) \n65.8 (224) \nSensible, kW (MBH) \n23.1 (78) \n24.4 (83) \n24.9 (85) \n30.9 (105) \n36.7 (125) \n42.4 (144) \n62.9 (214) \n65.8 (224) \nFlow Rate, GPM (Unit Press. Drop, ft H2O) \n29 (31) \n34 "
+        },
+        {
+          "rank": 2,
+          "index_position": 4470,
+          "chunk_id": "STULZ CyberAir DX Engineering Manual (2).pdf:p16:c2",
+          "source_file": "STULZ CyberAir DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberAir DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberAir DX Engineering Manual.pdf:p16:c2",
+          "page": 16,
+          "score": 0.6470633745193481,
+          "model_families": [
+            "cyberair dx"
+          ],
+          "text": "OOLING CAPACITY - Based on 45°F EGT, 40% Ethylene Glycol Solution (Includes Motor Heat @ Rated CFM & ESP) \n80°FDB/62.9°FWB, 38% RH, 52.3°FDP \nTotal, kW (MBH) \n30.8 (105) \n32.5 (111) \n33.1 (113) \n41.9 (143) \n49.4 (168) \n56.7 (193) \n84.3 (287) \n88.0 (300) \nSensible, kW (MBH) \n30.8 (105) \n32.5 (111) \n33.1 (113) \n41.9 (143) \n49.4 (168) \n56.7 (193) \n84.3 (287) \n88.0 (300) \nFlow Rate, GPM (Unit Press. Drop, ft H2O) \n29 (31) \n34 (39) \n36 (40) \n44 (38) \n56 (42) \n70 (56) \n95 (56) \n105 (69) \n72°FDB/60.0°FWB, 50% RH, 52.3°FDP \nTotal, kW (MBH) \n23.1 (78) \n24.4 (83) \n24.9 (85) \n30.9 (105) \n36.7 (125) \n42.4 (144) \n62.9 (214) \n65.8 (224) \nSensible, kW (MBH) \n23.1 (78) \n24.4 (83) \n24.9 (85) \n30.9 (105) \n36.7 (125) \n42.4 (144) \n62.9 (214) \n65.8 (224) \nFlow Rate, GPM (Unit Press. Drop, ft H2O) \n29 (31) \n34 "
+        },
+        {
+          "rank": 3,
+          "index_position": 4323,
+          "chunk_id": "STULZ CyberAir DX Engineering Manual (1).pdf:p16:c2",
+          "source_file": "STULZ CyberAir DX Engineering Manual (1).pdf",
+          "canonical_source_file": "STULZ CyberAir DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberAir DX Engineering Manual.pdf:p16:c2",
+          "page": 16,
+          "score": 0.6470633745193481,
+          "model_families": [
+            "cyberair dx"
+          ],
+          "text": "OOLING CAPACITY - Based on 45°F EGT, 40% Ethylene Glycol Solution (Includes Motor Heat @ Rated CFM & ESP) \n80°FDB/62.9°FWB, 38% RH, 52.3°FDP \nTotal, kW (MBH) \n30.8 (105) \n32.5 (111) \n33.1 (113) \n41.9 (143) \n49.4 (168) \n56.7 (193) \n84.3 (287) \n88.0 (300) \nSensible, kW (MBH) \n30.8 (105) \n32.5 (111) \n33.1 (113) \n41.9 (143) \n49.4 (168) \n56.7 (193) \n84.3 (287) \n88.0 (300) \nFlow Rate, GPM (Unit Press. Drop, ft H2O) \n29 (31) \n34 (39) \n36 (40) \n44 (38) \n56 (42) \n70 (56) \n95 (56) \n105 (69) \n72°FDB/60.0°FWB, 50% RH, 52.3°FDP \nTotal, kW (MBH) \n23.1 (78) \n24.4 (83) \n24.9 (85) \n30.9 (105) \n36.7 (125) \n42.4 (144) \n62.9 (214) \n65.8 (224) \nSensible, kW (MBH) \n23.1 (78) \n24.4 (83) \n24.9 (85) \n30.9 (105) \n36.7 (125) \n42.4 (144) \n62.9 (214) \n65.8 (224) \nFlow Rate, GPM (Unit Press. Drop, ft H2O) \n29 (31) \n34 "
+        },
+        {
+          "rank": 4,
+          "index_position": 6057,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf:p16:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p16:c1",
+          "page": 16,
+          "score": 0.629013180732727,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n16 \n  \n \nDual Row Drycooler Capacities  \nDual Row Fan Conﬁgurations (95 oF Ambient) \nDual Row Fan Conﬁgurations (105 oF Ambient) \n95 °F Ambient Selection (40% ethylene glycol, 120 °F EGT / 110 °F LGT) \n105 °F Ambient Selection (40% ethylene glycol, 120 °F EGT / 110 °F LGT) \nModels \nFDS-( ) \nMaximum Flow \nRate \nTotal Heat \nof \nRejection \n(BTU/H) \nNumber \nof Feeds \nConn. Size \n(Qty)* \nModels \nFDS-( ) \nMaximum Flow \nRate \nTotal Heat \nof \nRejection \n(BTU/H) \nNumber \nof Feeds \nConn. Size \n(Qty)* \ngpm \nPD \n(ftH2O) \ngpm \nPD \n(ftH2O) \n401B \n120 \n8 \n567,400 \n54 \n2\" (2) \n401B \n50 \n4.8 \n238,700 \n36 \n1 ½” (2) \n402B \n130 \n5.5 \n606,600 \n72 \n2\" (2) \n402B \n55 \n3.4 \n257,400 \n48 \n1 ½” (2) \n403B \n140 \n4.2 \n647,800 \n90 \n2 ½” (2) \n403B \n60 \n2.7 \n280,600 \n60 \n1 ½” (2) \n404B \n1"
+        },
+        {
+          "rank": 5,
+          "index_position": 5997,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf:p16:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p16:c1",
+          "page": 16,
+          "score": 0.629013180732727,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n16 \n  \n \nDual Row Drycooler Capacities  \nDual Row Fan Conﬁgurations (95 oF Ambient) \nDual Row Fan Conﬁgurations (105 oF Ambient) \n95 °F Ambient Selection (40% ethylene glycol, 120 °F EGT / 110 °F LGT) \n105 °F Ambient Selection (40% ethylene glycol, 120 °F EGT / 110 °F LGT) \nModels \nFDS-( ) \nMaximum Flow \nRate \nTotal Heat \nof \nRejection \n(BTU/H) \nNumber \nof Feeds \nConn. Size \n(Qty)* \nModels \nFDS-( ) \nMaximum Flow \nRate \nTotal Heat \nof \nRejection \n(BTU/H) \nNumber \nof Feeds \nConn. Size \n(Qty)* \ngpm \nPD \n(ftH2O) \ngpm \nPD \n(ftH2O) \n401B \n120 \n8 \n567,400 \n54 \n2\" (2) \n401B \n50 \n4.8 \n238,700 \n36 \n1 ½” (2) \n402B \n130 \n5.5 \n606,600 \n72 \n2\" (2) \n402B \n55 \n3.4 \n257,400 \n48 \n1 ½” (2) \n403B \n140 \n4.2 \n647,800 \n90 \n2 ½” (2) \n403B \n60 \n2.7 \n280,600 \n60 \n1 ½” (2) \n404B \n1"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q007",
+      "question": "How much rear service clearance is required for an ACRC300 Series InRow cooling unit?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 19.1748000215739,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 1267,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c4",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c4",
+          "page": 24,
+          "score": 0.6686977744102478,
+          "model_families": [],
+          "text": " capacity to handle all loads.\nDo not connect two InRow cooling units with the same branch circuit.\nChilled Water Temperature Requirements\nFor ACRC301H units, the chilled water temperature needs to be higher than the\ndew point of the room. If the dew point is too high, an optional dew point control\npump is available for installation in ACRC301H units. The InRow CW units do not\nprovide precision humidity control for the ITenvironment.\nCooling Unit Location\nRefer to the floor layout drawing for the exact placement of the cooling unit in the\nrow of ITequipment. This layout drawing can be found in the Configure-to-Order\n24\n990-4705D-001\nACRC300 Series\nLocation, Power, and Water Considerations"
+        },
+        {
+          "rank": 2,
+          "index_position": 1229,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p6:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p6:c1",
+          "page": 6,
+          "score": 0.6008884310722351,
+          "model_families": [],
+          "text": "ACRC300 Series\nPositioning the Cooling Unit.......................................................................35\nService Access...................................................................................35\nLeveling .............................................................................................36\nStabilizing the Cooling Unit........................................................................37\nBolt-Down Kit .....................................................................................37\nJoining to NetShelter™SX Enclosures..................................................37\nMechanical Connections..........................................................................39\nPiping ..............................................................................."
+        },
+        {
+          "rank": 3,
+          "index_position": 1215,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p1:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p1:c1",
+          "page": 1,
+          "score": 0.5548558235168457,
+          "model_families": [],
+          "text": "Uniflair™Chilled-Water InRow Cooling\nACRC300 Series\nInstallation Manual\n990-4705D-001\nRelease Date:01/2026\nwww.se.com"
+        },
+        {
+          "rank": 4,
+          "index_position": 5251,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p15:c2",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p15:c2",
+          "page": 15,
+          "score": 0.5345847606658936,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "ll be CRS - _ _ _ - _ .\nDesign Requirements\nThe environmental control system shall be a CyberRow Direct Expansion (DX) factory-assembled unit. The unit \nshall be designed for a row-based installation with removable front and rear access panels. No allowance for side \nservice access shall be required, however removable side access panels shall be provided for additional access.\nCyberRow units are especially adapted for both raised and non- raised floors. The air handling system shall be \nspecifically designed for high sensible heat ratio. Each system shall be capable of handling CFM. The unit shall \nhave the cooling capacity in Btu/h, and the sensible cooling capacity in Btu/h based on entering air conditions in \n°F dry bulb (DB) and °F wet bulb (WB). The main fan motors shall be in HP. The"
+        },
+        {
+          "rank": 5,
+          "index_position": 5192,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p15:c2",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p15:c2",
+          "page": 15,
+          "score": 0.5345847606658936,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "ll be CRS - _ _ _ - _ .\nDesign Requirements\nThe environmental control system shall be a CyberRow Direct Expansion (DX) factory-assembled unit. The unit \nshall be designed for a row-based installation with removable front and rear access panels. No allowance for side \nservice access shall be required, however removable side access panels shall be provided for additional access.\nCyberRow units are especially adapted for both raised and non- raised floors. The air handling system shall be \nspecifically designed for high sensible heat ratio. Each system shall be capable of handling CFM. The unit shall \nhave the cooling capacity in Btu/h, and the sensible cooling capacity in Btu/h based on entering air conditions in \n°F dry bulb (DB) and °F wet bulb (WB). The main fan motors shall be in HP. The"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q008",
+      "question": "What is the rated pump capacity of the humiFog direct UA080DD100 cabinet?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.84589989297092,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 2360,
+          "chunk_id": "FG_humiFog manual_maintenance_en.pdf:p13:c1",
+          "source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_humiFog manual_maintenance_en.pdf:p13:c1",
+          "page": 13,
+          "score": 0.5903675556182861,
+          "model_families": [],
+          "text": "13\nENG\n\"humiFog direct\" +0300073EN rel. 1.1 - 20.10.2017\n3. DISTRIBUTION SYSTEM INSTALLATION\n3.1 Blower unit installation\nThe humiFog Direct system works by connecting the cabinet to a \nnumber of blower units installed directly in the room to be humidiﬁ ed \nand/or cooled. \nThe following simple rules must be kept in mind when installing the \nblower units:\n• the minimum ﬂ ow-rate that can be atomised in the room is 8 l/h \n(irrespective of the size of the pump). The minimum number of blower \nunits must therefore be deﬁ ned based on the number and size of the \nchosen nozzles.\nThe maximum numbers of blower units that can be connected to a \ncabinet are:\n• 12 blower units with 2 nozzles\n• 6 blower units with 4 nozzles\n• 3 blower units with 8 nozzles\nThe blower units must be suitably positioned so"
+        },
+        {
+          "rank": 2,
+          "index_position": 2484,
+          "chunk_id": "FG_humiFog manual_maintenance_en.pdf:p35:c1",
+          "source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_humiFog manual_maintenance_en.pdf:p35:c1",
+          "page": 35,
+          "score": 0.5428968071937561,
+          "model_families": [],
+          "text": "35\nENG\n\"humiFog direct\" +0300073EN rel. 1.1 - 20.10.2017\n11. MAINTENANCE\n11.2 Special maintenance \nSpecial maintenance involves all those operations that are performed \non a one-oﬀ  basis in the event of malfunctions or breakages of certain \ncomponents. \nThe following components are those susceptible to breakage:\n• solenoid valves\n• pressure reducer\n• pressure switches\n• pump motor\n• pump\n• electronic controller\n• fuses\n• nozzles\n• nozzle manifold\n• fans on the blower units\nTo replace these contact specialist and authorised personnel. \nFor the spare part numbers, see table “9.5 Spare parts”.  \n11.3 Pump maintenance\nThe pump is the most complex mechanical device inside the cabinet, as \nwell as the heart of the high pressure system. It therefore requires speciﬁ c \nregular maintenance, compri"
+        },
+        {
+          "rank": 3,
+          "index_position": 6129,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (3).pdf:p19:c4",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (3).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p19:c4",
+          "page": 19,
+          "score": 0.5317643880844116,
+          "model_families": [],
+          "text": "ump motor:  8.2 amps  \nDry cooler: 8.0 amps  \nControl transformer: 0.5 amps \n8.2 \n8.0 \n+ \n0.5 \n16.7 FLA \nMCA \nMinimum Circuit \nAmps/Wire Size \nTake the FLA of the highest load (typically the pump motor) and multiply it by 1.25 \nand add all the remaining FLA’s without the multiplier. This number is the MCA. \nMFS \nMaximum Fuse \nSize \nTake the FLA of the highest load and multiply it by 2.25, then add all the remaining \nFLA’s without the multiplier. Take this number and round down to the next lowest \nstandard fuse size."
+        },
+        {
+          "rank": 4,
+          "index_position": 6069,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf:p19:c4",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p19:c4",
+          "page": 19,
+          "score": 0.5317643880844116,
+          "model_families": [],
+          "text": "ump motor:  8.2 amps  \nDry cooler: 8.0 amps  \nControl transformer: 0.5 amps \n8.2 \n8.0 \n+ \n0.5 \n16.7 FLA \nMCA \nMinimum Circuit \nAmps/Wire Size \nTake the FLA of the highest load (typically the pump motor) and multiply it by 1.25 \nand add all the remaining FLA’s without the multiplier. This number is the MCA. \nMFS \nMaximum Fuse \nSize \nTake the FLA of the highest load and multiply it by 2.25, then add all the remaining \nFLA’s without the multiplier. Take this number and round down to the next lowest \nstandard fuse size."
+        },
+        {
+          "rank": 5,
+          "index_position": 6009,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf:p19:c4",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p19:c4",
+          "page": 19,
+          "score": 0.5317643880844116,
+          "model_families": [],
+          "text": "ump motor:  8.2 amps  \nDry cooler: 8.0 amps  \nControl transformer: 0.5 amps \n8.2 \n8.0 \n+ \n0.5 \n16.7 FLA \nMCA \nMinimum Circuit \nAmps/Wire Size \nTake the FLA of the highest load (typically the pump motor) and multiply it by 1.25 \nand add all the remaining FLA’s without the multiplier. This number is the MCA. \nMFS \nMaximum Fuse \nSize \nTake the FLA of the highest load and multiply it by 2.25, then add all the remaining \nFLA’s without the multiplier. Take this number and round down to the next lowest \nstandard fuse size."
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q009",
+      "question": "What specific conductivity range is specified for humiFog direct feedwater?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.086899934336543,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 2354,
+          "chunk_id": "FG_humiFog manual_maintenance_en.pdf:p12:c1",
+          "source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_humiFog manual_maintenance_en.pdf:p12:c1",
+          "page": 12,
+          "score": 0.755897045135498,
+          "model_families": [],
+          "text": "12\nENG\n\"humiFog direct\" +0300073EN rel. 1.1 - 20.10.2017\n2.2.2 \nFeedwater characteristics\nhumiFog Direct requires demineralised water, so as to ensure:\n• minimum maintenance;\n• no blockages of the nozzles;\n• no dust (the droplets that evaporate will not leave mineral salts in the \nenvironment);\n• improved hygiene.\nThe use of demineralised water is also required to comply with standards \nUNI8883, VDI6022 and VDI3803. \nhumiFog Direct must only operate on demineralised water that falls \nwithin the limits listed in the following table. Normally, these values can \nbe obtained by reverse osmosis or nanoﬁ ltration of the feedwater.  \nSpecifi c conductivity\n25 - 80 μS/cm\npH\n5.5 – 8.5\nTotal hardness (TH)\n0 - 25 mg/l CaCO3\nTemporary hardness\n0 - 15 mg/l CaCO3\nChlorides (Cl)\n0 - 10 ppm Cl\nIron + mang"
+        },
+        {
+          "rank": 2,
+          "index_position": 2555,
+          "chunk_id": "FG_HumiSteam manual_maintenance_en.pdf:p12:c1",
+          "source_file": "FG_HumiSteam manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_HumiSteam manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_HumiSteam manual_maintenance_en.pdf:p12:c1",
+          "page": 12,
+          "score": 0.5343822240829468,
+          "model_families": [],
+          "text": "12\nENG\n“UEX-PLUS” +0300040EN - rel. 1.5 - 17.03.2017\ninstaller\nuser\nservice\n2.1 Supply water  \nOnly use mains water with:  \n• pressure between 0.1 and 0.8 MPa (14.5 and 116 PSI), temperature \nbetween 1 and 40 °C (33.8 and104 °F) and an instant fl ow-rate no lower \nthan the rated fl ow of the fi ll solenoid valve, the connection is G3/4M \n(see par. “Technical specifi cations” page 41);\n• range hardness 10 to 40 °F h (equal to 400 ppm of CaCO3), conductivity: \n75 to 1250 μS/cm;\n• no organic compounds.\nsupply water \ncharacteristics\nunit of \nmeasure\nnormal water\nwater with low \nsalt content\nmin.\nmax.\nmin.\nmax.\nHydrogen ions (pH)\n7\n8.5\n7\n8,5\nSpecifi c conductivity at \n20°C (σR, 20 °C)\nμS/cm\n350\n1250\n75\n300\nTotal dissolved solids (cR)\nmg/l\n(1)\n(1)\n(1)\n(1)\nDry residue at 180°C (R180)\nmg/l\n(1)\n(1)"
+        },
+        {
+          "rank": 3,
+          "index_position": 2168,
+          "chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p74:c4",
+          "source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p74:c4",
+          "page": 74,
+          "score": 0.5006119012832642,
+          "model_families": [],
+          "text": " consequently high concentration of salts in the feedwater can be\nsignalled. These alarm thresholds are programmable using the following parameters:\nIndex\nParameter\nDescription\nEc15\nHigh conductivity\nEnable the high conductivity alarm and set the alarm delay.\nDefault:\nenabled: YES\nalarm delay: 60 seconds\nPossible settings:\nenabled: YES/NO;\nalarm delay: 0-300 seconds\nRemarks: once the threshold has been exceeded (if the alarm is\nenabled), the controller waits for the “alarm delay” to elapse before\ndisplaying the alarm. If during this waiting time the conductivity falls\nback below the threshold, the alarm is not activated. This helps avoid\nfalse alarms due to variations in the conductivity reading.\n7.4.9 Set high conductivity alarm thresholds (Installer menu)\nTwo high conductivity thresholds"
+        },
+        {
+          "rank": 4,
+          "index_position": 2165,
+          "chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p74:c1",
+          "source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p74:c1",
+          "page": 74,
+          "score": 0.49121159315109253,
+          "model_families": [],
+          "text": "ENG\n7.4.6 Set feedwater hardness (Installer menu)\nTo read feedwater hardness, Carel provides an analysis kit (P/N: KITTH00000). The “Water hardness”\nparameter defines the maintenance alarm for cleaning the boiler and the heat exchanger.\nIndex\nParameter\nDescription\nEc13\nWater hardness\nSet the feedwater hardness\nPossible settings:\nHardness: Auto, Manual\nManual setting: demineralised, 0-10°f, 10-20°f, 20-30°f, 30-40°f.\nRemarks: if the value is set to Auto, the water hardness is estimated by\nthe controller based on the conductivity value.\nIf water hardness is not set, the controller independently manages the type of water based on the\nconductivity reading. Although there is no reliable relationship between water hardness and\nconductivity, a hardness of 40°f is typically equivalent to a conduct"
+        },
+        {
+          "rank": 5,
+          "index_position": 2006,
+          "chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p18:c1",
+          "source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p18:c1",
+          "page": 18,
+          "score": 0.47734373807907104,
+          "model_families": [],
+          "text": "ENG\nNote that:\n1.\nno relationship can be proven between water hardness and conductivity; nonetheless, as an indication\nonly, water with a hardness of 40°f should have a conductivity of approximately 900-1000 μS/cm at 20\n°C.\n2.\nif supplied with water coming from an external reverse osmosis system, an instant flow-rate of 20\nl/min (5.28 Gal/min) must be guaranteed. For UG450, there are two inlets, therefore the instant flow-\nrate must be 2 x 20 l/min (2 x 5.28 Gal/min).\nMin\nMax\nSpecific conductivity at\n20°C\nσ20 - μS/cm\n0\n1500\nTotal dissolved solids\nTDS – mg/l\n(1)\n(1)\nDry residue at 180°C\nR180 – mg/l\n(1)\n(1)\nHydrogen ion activity\npH\n6\n8.5\nTotal hardness\nTH– mg/l CaCO3\n0 (2)\n400\nTemporary hardness\nmg/l CaCO3\n0 (3)\n300\nChlorides\nppm Cl\n-\n50 (4)\nIron + Manganese\nmg/l Fe+Mn\n-\n0.2\nSilica\nmg/l SIO2"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q010",
+      "question": "What is the rated power input of the Bosch GKS 65 GCE Professional?",
+      "question_type": "exact_technical_value",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 17.18049996998161,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 3128,
+          "chunk_id": "gks_65_gce_professional.pdf:p8:c4",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p8:c4",
+          "page": 8,
+          "score": 0.5817116498947144,
+          "model_families": [],
+          "text": "Professional\nGKS 65 GCE\nProfessional\nArticle number\n3 601 F67 0..\n3 601 F68 9..\n3 601 F68 9..\nRated power input\nW\n1600\n1600\n1800\nNo-load speed\nmin-1\n5900\n5900\n2300 – 5000\nRotational speed under load, max.\nmin-1\n4200\n4200\n1400 – 4000\nCutting depth, max.\n– for 0° bevel angle\n– for 45° bevel angle\nmm\nmm\n65\n48\n65\n48\n65\n48\nSpindle lock\nz\nz\nz\nSpeed preselection\n–\n–\nz\nConstant electronic control\n–\n–\nz\nTemperature Dependent Overload Protection\n–\n–\nz\nReduced starting current\n–\n–\nz\nBase plate dimensions\nmm\n170 x 305\n203 x 327\n203 x 327\nSaw blade diameter, max.\nmm\n190\n190\n190\nSaw blade diameter, min.\nmm\n184\n184\n184\nBlade thickness, max. \nmm\n1.7\n1.7\n1.7\nTooth thickness/setting, max.\nmm\n2.6\n2.6\n2.6\nTooth thickness/setting, min.\nmm\n1.8\n1.8\n1.8\nMounting bore\nmm\n30\n30\n30\nWeight according to EPTA-Procedure"
+        },
+        {
+          "rank": 2,
+          "index_position": 174,
+          "chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf:p9:c2",
+          "source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf",
+          "canonical_source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf",
+          "canonical_chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf:p9:c2",
+          "page": 9,
+          "score": 0.542873740196228,
+          "model_families": [],
+          "text": "ries range.\nB. Commercially available (not included in the scope of delivery)\nTechnical Data\nImpact drill\nGSB...\n10\n10\nRE\n13\n13\nRE\n16\n16\nRE\nArticle number\n3\n601...\nB16\n0..\nB16\n1..\nB17\n0..\nB17\n1..\nB17\n6..\nB18\n0..\nB18\n1..\nB18\n6..\nRated power input\nW\n500\n500\n600\n600\n701\n701\nPower output\nW\n250\n250\n301\n301\n351\n351\nNo-load speed\n2600\n0–\n2800\n0–\n3000\n0–"
+        },
+        {
+          "rank": 3,
+          "index_position": 124,
+          "chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5 (1).pdf:p9:c2",
+          "source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5 (1).pdf",
+          "canonical_source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf",
+          "canonical_chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf:p9:c2",
+          "page": 9,
+          "score": 0.542873740196228,
+          "model_families": [],
+          "text": "ries range.\nB. Commercially available (not included in the scope of delivery)\nTechnical Data\nImpact drill\nGSB...\n10\n10\nRE\n13\n13\nRE\n16\n16\nRE\nArticle number\n3\n601...\nB16\n0..\nB16\n1..\nB17\n0..\nB17\n1..\nB17\n6..\nB18\n0..\nB18\n1..\nB18\n6..\nRated power input\nW\n500\n500\n600\n600\n701\n701\nPower output\nW\n250\n250\n301\n301\n351\n351\nNo-load speed\n2600\n0–\n2800\n0–\n3000\n0–"
+        },
+        {
+          "rank": 4,
+          "index_position": 1659,
+          "chunk_id": "dba749.pdf:p14:c1",
+          "source_file": "dba749.pdf",
+          "canonical_source_file": "dba749.pdf",
+          "canonical_chunk_id": "dba749.pdf:p14:c1",
+          "page": 14,
+          "score": 0.5375388860702515,
+          "model_families": [],
+          "text": "Bosch Power Tool Division \nMotor Industries Co Ltd \nP B No 3000, Audugodi \nHosur Road, \nBangalore 560 030 \nPh: + 91 (0)80 - 22 99 28 66/22 99 95 15 \n1 609 929 F75 (04.03) O / 16\nPrinted in India - Imprimé en Inde\nChlor\n* Des idées en action.\nDownloaded from www.Manualslib.com manuals search engine"
+        },
+        {
+          "rank": 5,
+          "index_position": 3098,
+          "chunk_id": "gks_65_gce_professional.pdf:p2:c1",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p2:c1",
+          "page": 2,
+          "score": 0.5338708162307739,
+          "model_families": [],
+          "text": "3 |  \n1 619 X06 442 | (9.6.11)\nBosch Power Tools\nA\nGKS 65 GCE\nProfessional\n2\n3\n4\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n1\n17\n23\n22\n21\n5\n18\n19\n20\nOBJ_BUCH-359-003.book  Page 3  Thursday, June 9, 2011  10:18 AM\nDownloaded from www.Manualslib.com manuals search engine"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q011",
+      "question": "How do the MFS ratings of CyberRow DX CRS-042 and CRS-084 differ at 208 V single-phase 60 Hz?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 23.687400040216744,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5307,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6272339820861816,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 2,
+          "index_position": 5189,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6272339820861816,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 3,
+          "index_position": 5248,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6272339224815369,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 4,
+          "index_position": 5290,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.505806565284729,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        },
+        {
+          "rank": 5,
+          "index_position": 5231,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.505806565284729,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q012",
+      "question": "Which CyberRow CW model has a listed 120 V single-phase cooling-only option: CRS-090-W or CRS-180-W?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 22.96599990222603,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5132,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p12:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p12:c1",
+          "page": 12,
+          "score": 0.6595258116722107,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "12\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\nElectrical Data\nModels CRS-090-W and CRS-180-W\nNote:  Standard 1 KAIC rating, optional 65 KAIC rating available.\nModel: CRS-\n090\n180\nVoltages\nMCA\nMFS\nMCA\nMFS\n Cooling Only (Includes Condensate Pump)\n120 V / 1 PH / 60 Hz\n6.4\n15\nN/A\nN/A\n280 V / 1 PH / 60 Hz\n7\n15\n16.6\n20\n280 V / 3 PH / 60 Hz\n7\n15\n16.6\n20\n460 V / 3 PH / 60 Hz\n3.2\n15\n5.7\n15\n575 V / 3 PH / 60 Hz\n2.6\n15\n4.6\n15"
+        },
+        {
+          "rank": 2,
+          "index_position": 5077,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p12:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p12:c1",
+          "page": 12,
+          "score": 0.6595258116722107,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "12\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\nElectrical Data\nModels CRS-090-W and CRS-180-W\nNote:  Standard 1 KAIC rating, optional 65 KAIC rating available.\nModel: CRS-\n090\n180\nVoltages\nMCA\nMFS\nMCA\nMFS\n Cooling Only (Includes Condensate Pump)\n120 V / 1 PH / 60 Hz\n6.4\n15\nN/A\nN/A\n280 V / 1 PH / 60 Hz\n7\n15\n16.6\n20\n280 V / 3 PH / 60 Hz\n7\n15\n16.6\n20\n460 V / 3 PH / 60 Hz\n3.2\n15\n5.7\n15\n575 V / 3 PH / 60 Hz\n2.6\n15\n4.6\n15"
+        },
+        {
+          "rank": 3,
+          "index_position": 5022,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf:p12:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p12:c1",
+          "page": 12,
+          "score": 0.6595258116722107,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "12\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\nElectrical Data\nModels CRS-090-W and CRS-180-W\nNote:  Standard 1 KAIC rating, optional 65 KAIC rating available.\nModel: CRS-\n090\n180\nVoltages\nMCA\nMFS\nMCA\nMFS\n Cooling Only (Includes Condensate Pump)\n120 V / 1 PH / 60 Hz\n6.4\n15\nN/A\nN/A\n280 V / 1 PH / 60 Hz\n7\n15\n16.6\n20\n280 V / 3 PH / 60 Hz\n7\n15\n16.6\n20\n460 V / 3 PH / 60 Hz\n3.2\n15\n5.7\n15\n575 V / 3 PH / 60 Hz\n2.6\n15\n4.6\n15"
+        },
+        {
+          "rank": 4,
+          "index_position": 5117,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p5:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6312236785888672,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "5\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nProduct Line\nNominal Capacity (MBH)\nCooling Method\nCRS = CyberRow System,\nRow Based Cooling\n090 = 90 MBH (90,000 Btu/h)\n180 = 180 MBH (180,000 Btu/h)\nC = Chilled Water\nNominal Capacity in MBH \n(1,000s of Btu/h)\n CyberRow System\nChilled Water Cooling Method\nCRS-180-C"
+        },
+        {
+          "rank": 5,
+          "index_position": 5062,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p5:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6312236785888672,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "5\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nProduct Line\nNominal Capacity (MBH)\nCooling Method\nCRS = CyberRow System,\nRow Based Cooling\n090 = 90 MBH (90,000 Btu/h)\n180 = 180 MBH (180,000 Btu/h)\nC = Chilled Water\nNominal Capacity in MBH \n(1,000s of Btu/h)\n CyberRow System\nChilled Water Cooling Method\nCRS-180-C"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q013",
+      "question": "How do the cooling-only MCA ratings for CyberOne DX models 042 and 060 compare at 208/3/60 without a condensate pump?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 23.68789992760867,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 4915,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "page": 10,
+          "score": 0.583838939666748,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "10\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nPerformance Data – Air Cooled\nModel\nCOS-024\nCOS-042\nCOS-060\nCOS-096\nCOS-120\nNET DX COOLING CAPACITY - kW(MBH), (includes standard DX evaporator motor heat @ std CFM and e.s.p. ratings)\n72°FDB/60.0°FWB, 50% RH\nTotal kW (MBH)\n6.8 (23.5)\n13.3 (45.3)\n16.4 (55.9)\n26.9 (91.9)\n32.6 (111.4)\nSensible kW (MBH)\n5.7 (19.6)\n11.6 (39.6)\n14.7 (50.1)\n24.2 (82.7)\n26.9 (92.0)\n80°FDB/62.9°FWB, 38% RH\nTotal kW (MBH)\n7.4 (25.4)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n35.1 (119.9)\nSensible kW (MBH)\n7.2 (24.6)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n33.8 (115.5)\nReheat - Performance Capacities\nElectric Reheat - Finned Reheat Coils, (Standard)\nHr. Kw Rating \n(Number of Stages)\n6 Kw (1-tg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)"
+        },
+        {
+          "rank": 2,
+          "index_position": 4813,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p10:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "page": 10,
+          "score": 0.583838939666748,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "10\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nPerformance Data – Air Cooled\nModel\nCOS-024\nCOS-042\nCOS-060\nCOS-096\nCOS-120\nNET DX COOLING CAPACITY - kW(MBH), (includes standard DX evaporator motor heat @ std CFM and e.s.p. ratings)\n72°FDB/60.0°FWB, 50% RH\nTotal kW (MBH)\n6.8 (23.5)\n13.3 (45.3)\n16.4 (55.9)\n26.9 (91.9)\n32.6 (111.4)\nSensible kW (MBH)\n5.7 (19.6)\n11.6 (39.6)\n14.7 (50.1)\n24.2 (82.7)\n26.9 (92.0)\n80°FDB/62.9°FWB, 38% RH\nTotal kW (MBH)\n7.4 (25.4)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n35.1 (119.9)\nSensible kW (MBH)\n7.2 (24.6)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n33.8 (115.5)\nReheat - Performance Capacities\nElectric Reheat - Finned Reheat Coils, (Standard)\nHr. Kw Rating \n(Number of Stages)\n6 Kw (1-tg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)"
+        },
+        {
+          "rank": 3,
+          "index_position": 4711,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (1).pdf:p10:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (1).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "page": 10,
+          "score": 0.583838939666748,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "10\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nPerformance Data – Air Cooled\nModel\nCOS-024\nCOS-042\nCOS-060\nCOS-096\nCOS-120\nNET DX COOLING CAPACITY - kW(MBH), (includes standard DX evaporator motor heat @ std CFM and e.s.p. ratings)\n72°FDB/60.0°FWB, 50% RH\nTotal kW (MBH)\n6.8 (23.5)\n13.3 (45.3)\n16.4 (55.9)\n26.9 (91.9)\n32.6 (111.4)\nSensible kW (MBH)\n5.7 (19.6)\n11.6 (39.6)\n14.7 (50.1)\n24.2 (82.7)\n26.9 (92.0)\n80°FDB/62.9°FWB, 38% RH\nTotal kW (MBH)\n7.4 (25.4)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n35.1 (119.9)\nSensible kW (MBH)\n7.2 (24.6)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n33.8 (115.5)\nReheat - Performance Capacities\nElectric Reheat - Finned Reheat Coils, (Standard)\nHr. Kw Rating \n(Number of Stages)\n6 Kw (1-tg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)"
+        },
+        {
+          "rank": 4,
+          "index_position": 4950,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5772866606712341,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 5,
+          "index_position": 4848,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5772866606712341,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q014",
+      "question": "Which CyberOne DX model has the higher cooling-only MFS at 208/3/60 without a condensate pump: 042 or 096?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 23.969899979420006,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 4950,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5668987035751343,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 2,
+          "index_position": 4848,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5668987035751343,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 3,
+          "index_position": 4746,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (1).pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (1).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5668987035751343,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 4,
+          "index_position": 4915,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "page": 10,
+          "score": 0.563550591468811,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "10\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nPerformance Data – Air Cooled\nModel\nCOS-024\nCOS-042\nCOS-060\nCOS-096\nCOS-120\nNET DX COOLING CAPACITY - kW(MBH), (includes standard DX evaporator motor heat @ std CFM and e.s.p. ratings)\n72°FDB/60.0°FWB, 50% RH\nTotal kW (MBH)\n6.8 (23.5)\n13.3 (45.3)\n16.4 (55.9)\n26.9 (91.9)\n32.6 (111.4)\nSensible kW (MBH)\n5.7 (19.6)\n11.6 (39.6)\n14.7 (50.1)\n24.2 (82.7)\n26.9 (92.0)\n80°FDB/62.9°FWB, 38% RH\nTotal kW (MBH)\n7.4 (25.4)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n35.1 (119.9)\nSensible kW (MBH)\n7.2 (24.6)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n33.8 (115.5)\nReheat - Performance Capacities\nElectric Reheat - Finned Reheat Coils, (Standard)\nHr. Kw Rating \n(Number of Stages)\n6 Kw (1-tg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)"
+        },
+        {
+          "rank": 5,
+          "index_position": 4813,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p10:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p10:c1",
+          "page": 10,
+          "score": 0.563550591468811,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "10\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nPerformance Data – Air Cooled\nModel\nCOS-024\nCOS-042\nCOS-060\nCOS-096\nCOS-120\nNET DX COOLING CAPACITY - kW(MBH), (includes standard DX evaporator motor heat @ std CFM and e.s.p. ratings)\n72°FDB/60.0°FWB, 50% RH\nTotal kW (MBH)\n6.8 (23.5)\n13.3 (45.3)\n16.4 (55.9)\n26.9 (91.9)\n32.6 (111.4)\nSensible kW (MBH)\n5.7 (19.6)\n11.6 (39.6)\n14.7 (50.1)\n24.2 (82.7)\n26.9 (92.0)\n80°FDB/62.9°FWB, 38% RH\nTotal kW (MBH)\n7.4 (25.4)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n35.1 (119.9)\nSensible kW (MBH)\n7.2 (24.6)\n14.3 (48.8)\n17.7 (60.6)\n29.4 (100.4)\n33.8 (115.5)\nReheat - Performance Capacities\nElectric Reheat - Finned Reheat Coils, (Standard)\nHr. Kw Rating \n(Number of Stages)\n6 Kw (1-tg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)\n9 Kw (1-stg)"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q015",
+      "question": "How do the hot-gas connection sizes differ between SCS-MC-035-S and SCS-MC-035-D?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 17.978099989704788,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5617,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p10:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p10:c1",
+          "page": 10,
+          "score": 0.6025665998458862,
+          "model_families": [],
+          "text": "10\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Performance Data>AA, SA, & EC Models\n2.\t Performance Data\n2.1. AA, SA, & EC Models\nModel\nFlow \nRate\nTotal Heat Rejection\nw/ R410A (MBH)\nTotal Heat Rejection\nw/ R407C (MBH)\nNoise\nRefrigerant\nConnections (in)\n(CFM)\n@ 95°F\n@ 105°F\n@ 115°F\n@ 95°F\n@ 105°F\n@ 115°F\n(dBA)\nHot Gas \nLine\nLiquid \nLine\nSCS-MC-015-S\n2,525\n54\n40\n26\n52\n39\n26\n73\n1/2\n1/2\nSCS-MC-018-S\n2,775\n67\n50\n33\n65\n49\n33\n73\n1/2\n1/2\nSCS-MC-031-S\n4,750\n113\n80\n53\n103\n77\n52\n79\n5/8\n5/8\nSCS-MC-031-D\n4,750\n113\n80\n53\n103\n77\n52\n79\n5/8\n5/8\nSCS-MC-035-S\n5,100\n125\n94\n62\n121\n90\n61\n79\n7/8\n7/8\nSCS-MC-035-D\n5,100\n125\n94\n62\n121\n90\n61\n79\n5/8\n5/8\nSCS-MC-056-S\n9,500\n202\n150\n97\n192\n140\n94\n82\n7/8\n7/8\nSCS-MC-056-D\n9,500\n202\n150\n97\n192\n140\n94\n82\n5/8\n5/8\nSCS-MC-071-S\n10,400\n254\n190\n126\n245\n184\n124\n"
+        },
+        {
+          "rank": 2,
+          "index_position": 5490,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p10:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p10:c1",
+          "page": 10,
+          "score": 0.6025665998458862,
+          "model_families": [],
+          "text": "10\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Performance Data>AA, SA, & EC Models\n2.\t Performance Data\n2.1. AA, SA, & EC Models\nModel\nFlow \nRate\nTotal Heat Rejection\nw/ R410A (MBH)\nTotal Heat Rejection\nw/ R407C (MBH)\nNoise\nRefrigerant\nConnections (in)\n(CFM)\n@ 95°F\n@ 105°F\n@ 115°F\n@ 95°F\n@ 105°F\n@ 115°F\n(dBA)\nHot Gas \nLine\nLiquid \nLine\nSCS-MC-015-S\n2,525\n54\n40\n26\n52\n39\n26\n73\n1/2\n1/2\nSCS-MC-018-S\n2,775\n67\n50\n33\n65\n49\n33\n73\n1/2\n1/2\nSCS-MC-031-S\n4,750\n113\n80\n53\n103\n77\n52\n79\n5/8\n5/8\nSCS-MC-031-D\n4,750\n113\n80\n53\n103\n77\n52\n79\n5/8\n5/8\nSCS-MC-035-S\n5,100\n125\n94\n62\n121\n90\n61\n79\n7/8\n7/8\nSCS-MC-035-D\n5,100\n125\n94\n62\n121\n90\n61\n79\n5/8\n5/8\nSCS-MC-056-S\n9,500\n202\n150\n97\n192\n140\n94\n82\n7/8\n7/8\nSCS-MC-056-D\n9,500\n202\n150\n97\n192\n140\n94\n82\n5/8\n5/8\nSCS-MC-071-S\n10,400\n254\n190\n126\n245\n184\n124\n"
+        },
+        {
+          "rank": 3,
+          "index_position": 5363,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p10:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p10:c1",
+          "page": 10,
+          "score": 0.6025665998458862,
+          "model_families": [],
+          "text": "10\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Performance Data>AA, SA, & EC Models\n2.\t Performance Data\n2.1. AA, SA, & EC Models\nModel\nFlow \nRate\nTotal Heat Rejection\nw/ R410A (MBH)\nTotal Heat Rejection\nw/ R407C (MBH)\nNoise\nRefrigerant\nConnections (in)\n(CFM)\n@ 95°F\n@ 105°F\n@ 115°F\n@ 95°F\n@ 105°F\n@ 115°F\n(dBA)\nHot Gas \nLine\nLiquid \nLine\nSCS-MC-015-S\n2,525\n54\n40\n26\n52\n39\n26\n73\n1/2\n1/2\nSCS-MC-018-S\n2,775\n67\n50\n33\n65\n49\n33\n73\n1/2\n1/2\nSCS-MC-031-S\n4,750\n113\n80\n53\n103\n77\n52\n79\n5/8\n5/8\nSCS-MC-031-D\n4,750\n113\n80\n53\n103\n77\n52\n79\n5/8\n5/8\nSCS-MC-035-S\n5,100\n125\n94\n62\n121\n90\n61\n79\n7/8\n7/8\nSCS-MC-035-D\n5,100\n125\n94\n62\n121\n90\n61\n79\n5/8\n5/8\nSCS-MC-056-S\n9,500\n202\n150\n97\n192\n140\n94\n82\n7/8\n7/8\nSCS-MC-056-D\n9,500\n202\n150\n97\n192\n140\n94\n82\n5/8\n5/8\nSCS-MC-071-S\n10,400\n254\n190\n126\n245\n184\n124\n"
+        },
+        {
+          "rank": 4,
+          "index_position": 5540,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p35:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p35:c1",
+          "page": 35,
+          "score": 0.5860484838485718,
+          "model_families": [],
+          "text": "35\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Performance Data: AA, SA, & EC Models> \n8.\t Performance Data: AA, SA, & EC Models\nModel\nFlow \nRate\nTotal Heat Rejection\nw/ R410A (MBH)\nTotal Heat Rejection\nw/ R407C (MBH)\nNoise\nRefrigerant\nConnections (in)\n(CFM)\n@ 95°F\n@ 105°F\n@ 95°F\n@ 105°F\n(dBA)\nHot Gas \nLine\nLiquid Line\nSCS-012-S\n2,575\n17\nN/A\n18\nN/A\n73\n5/8\n5/8\nSCS-018-S\n2,450\n22\nN/A\n25\nN/A\n73\n5/8\n5/8\nSCS-024-S\n2,350\n31\n20\n35\n22\n73\n7/8\n7/8\nSCS-036-S\n4,900\n51\n32\n57\n35\n79\n7/8\n7/8\nSCS-060-S\n4,550\n66\n41\n75\n45\n79\n7/8\n7/8\nSCS-060-D\n4,550\n66\n41\n75\n45\n79\n7/8\n7/8\nSCS-096-S\n9,775\n102\n63\n115\n71\n82\n1 ⅛\n7/8\nSCS-096-D\n9,775\n102\n63\n115\n71\n82\n1 ⅛\n7/8\nSCS-120-S\n9,100\n135\n86\n148\n94\n82\n1 ⅛\n7/8\nSCS-120-D\n9,100\n135\n86\n148\n94\n82\n1 ⅛\n7/8\nSCS-144-S\n8,675\n152\n97\n170\n104\n82\n1 ⅛\n7/8\nSCS-144-D\n8,675\n152\n9"
+        },
+        {
+          "rank": 5,
+          "index_position": 5413,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p35:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p35:c1",
+          "page": 35,
+          "score": 0.5860484838485718,
+          "model_families": [],
+          "text": "35\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Performance Data: AA, SA, & EC Models> \n8.\t Performance Data: AA, SA, & EC Models\nModel\nFlow \nRate\nTotal Heat Rejection\nw/ R410A (MBH)\nTotal Heat Rejection\nw/ R407C (MBH)\nNoise\nRefrigerant\nConnections (in)\n(CFM)\n@ 95°F\n@ 105°F\n@ 95°F\n@ 105°F\n(dBA)\nHot Gas \nLine\nLiquid Line\nSCS-012-S\n2,575\n17\nN/A\n18\nN/A\n73\n5/8\n5/8\nSCS-018-S\n2,450\n22\nN/A\n25\nN/A\n73\n5/8\n5/8\nSCS-024-S\n2,350\n31\n20\n35\n22\n73\n7/8\n7/8\nSCS-036-S\n4,900\n51\n32\n57\n35\n79\n7/8\n7/8\nSCS-060-S\n4,550\n66\n41\n75\n45\n79\n7/8\n7/8\nSCS-060-D\n4,550\n66\n41\n75\n45\n79\n7/8\n7/8\nSCS-096-S\n9,775\n102\n63\n115\n71\n82\n1 ⅛\n7/8\nSCS-096-D\n9,775\n102\n63\n115\n71\n82\n1 ⅛\n7/8\nSCS-120-S\n9,100\n135\n86\n148\n94\n82\n1 ⅛\n7/8\nSCS-120-D\n9,100\n135\n86\n148\n94\n82\n1 ⅛\n7/8\nSCS-144-S\n8,675\n152\n97\n170\n104\n82\n1 ⅛\n7/8\nSCS-144-D\n8,675\n152\n9"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q016",
+      "question": "How do the unit depths of SCS-MC-031-S and SCS-MC-031-D compare?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 22.468100069090724,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5650,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "page": 28,
+          "score": 0.4761227071285248,
+          "model_families": [],
+          "text": "28\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-223-D (2x2)\n5.14. SCS-MC-223-D (2x2)\n5.15. SCS-MC-223-D (1x4)"
+        },
+        {
+          "rank": 2,
+          "index_position": 5523,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p28:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "page": 28,
+          "score": 0.4761227071285248,
+          "model_families": [],
+          "text": "28\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-223-D (2x2)\n5.14. SCS-MC-223-D (2x2)\n5.15. SCS-MC-223-D (1x4)"
+        },
+        {
+          "rank": 3,
+          "index_position": 5396,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p28:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "page": 28,
+          "score": 0.4761227071285248,
+          "model_families": [],
+          "text": "28\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-223-D (2x2)\n5.14. SCS-MC-223-D (2x2)\n5.15. SCS-MC-223-D (1x4)"
+        },
+        {
+          "rank": 4,
+          "index_position": 5647,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p25:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p25:c1",
+          "page": 25,
+          "score": 0.46688312292099,
+          "model_families": [],
+          "text": "25\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-035-D\n5.7. SCS-MC-031-D\n5.8. SCS-MC-035-D\n5.9. SCS-MC-056-D"
+        },
+        {
+          "rank": 5,
+          "index_position": 5520,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p25:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p25:c1",
+          "page": 25,
+          "score": 0.46688312292099,
+          "model_families": [],
+          "text": "25\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-035-D\n5.7. SCS-MC-031-D\n5.8. SCS-MC-035-D\n5.9. SCS-MC-056-D"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q017",
+      "question": "At 105°F ambient how does total heat rejection differ between FSS-201A and FSS-204A?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.89680004771799,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5699,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p49:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p49:c1",
+          "page": 49,
+          "score": 0.5380362868309021,
+          "model_families": [],
+          "text": "49\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Dimensional Data>SCS-036 thru 060\n11.\t Dimensional Data\n11.1. SCS-012 thru 024\n11.3. SCS-096 thru 144\n11.2. SCS-036 thru 060"
+        },
+        {
+          "rank": 2,
+          "index_position": 5572,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p49:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p49:c1",
+          "page": 49,
+          "score": 0.5380362868309021,
+          "model_families": [],
+          "text": "49\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Dimensional Data>SCS-036 thru 060\n11.\t Dimensional Data\n11.1. SCS-012 thru 024\n11.3. SCS-096 thru 144\n11.2. SCS-036 thru 060"
+        },
+        {
+          "rank": 3,
+          "index_position": 5445,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p49:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p49:c1",
+          "page": 49,
+          "score": 0.5380362868309021,
+          "model_families": [],
+          "text": "49\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Dimensional Data>SCS-036 thru 060\n11.\t Dimensional Data\n11.1. SCS-012 thru 024\n11.3. SCS-096 thru 144\n11.2. SCS-036 thru 060"
+        },
+        {
+          "rank": 4,
+          "index_position": 5575,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p52:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p52:c1",
+          "page": 52,
+          "score": 0.5263229608535767,
+          "model_families": [],
+          "text": "52\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Dimensional Data>SCS-1366\n11.8. SCS-1366"
+        },
+        {
+          "rank": 5,
+          "index_position": 5448,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p52:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p52:c1",
+          "page": 52,
+          "score": 0.5263229608535767,
+          "model_families": [],
+          "text": "52\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS>Dimensional Data>SCS-1366\n11.8. SCS-1366"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 0,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q018",
+      "question": "Which ACRC301 package lists two pipe gaskets for unit pipes rather than four undifferentiated pipe gaskets: ACRC301S or ACRC301H?",
+      "question_type": "equipment_model_distinction",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 19.248199998401105,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 1293,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c2",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c2",
+          "page": 41,
+          "score": 0.56406569480896,
+          "model_families": [],
+          "text": "ess will be the same\nfor ACRC301H units.\nNOTE: Before installing pipes, use the service valves to discharge\ngas from the unit. For service valve locations, see Internal\nComponents—ACRC301S, page 19 or Internal Components—\nACRC301H, page 20.\nFor upper piping configurations, see the instructions that come with the\nupper piping kit.\n1. Remove the pipe connection caps and grommets from the bottom pipe\nconnections.\nna4369a\nCAPS\nGROMMETS\n2. Place the lower piping insulation on the pipes.\n990-4705D-001\n41\nMechanical Connections\nACRC300 Series"
+        },
+        {
+          "rank": 2,
+          "index_position": 1292,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c1",
+          "page": 41,
+          "score": 0.5591527223587036,
+          "model_families": [],
+          "text": "Layout and Piping Considerations\nFluid pipes are not allowed directly above electrical cooling units and must be kept\nseparate from any electrical runs or wiring. All fluid piping must be installed above\nthe aisles. If any piping makes a turn, or must be routed over electrical equipment,\nthere must be a drip tray under the pipe that will protect the equipment from\ncondensation and leaks.\nInsulation\nInsulate water lines to protect personnel, protect components from condensate,\nand to minimize condensation\nSee Insulation, page 44.\nSupply and Return Piping\nNOTE: This section covers a bottom piping configuration only. The\nACRC301S model is shown in the illustrations; the process will be the same\nfor ACRC301H units.\nNOTE: Before installing pipes, use the service valves to discharge\ngas from the"
+        },
+        {
+          "rank": 3,
+          "index_position": 1273,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p29:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p29:c1",
+          "page": 29,
+          "score": 0.5512622594833374,
+          "model_families": [],
+          "text": "Piping and electrical access locations—ACRC301S\n56 (2.22)\n110 (4.35)\n116 (4.55)\n204 (8.02)\n97 (3.83)\n145 (5.72)\n147 (5.80)\n180 (7.10)\n199 (7.85)\n240 (9.46)\n174 (6.84)\n157 (6.20)\n90 (3.54)\n184 (7.26)\n53 (2.08)\n161 (6.34)\n189 (7.43)\n83 (3.27)\n110 (4.31) \nTOP VIEW\nBOTTOM VIEW\n(LOOKING UP)\n* Dimensions are shown in mm (in.).\n990-4705D-001\n29\nPiping Diagrams\nACRC300 Series"
+        },
+        {
+          "rank": 4,
+          "index_position": 1275,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p31:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p31:c1",
+          "page": 31,
+          "score": 0.5499774217605591,
+          "model_families": [],
+          "text": "Piping and electrical access locations—ACRC301H\nna4334a\n158 (6.23)\n280 (11.02)\n130 (5.12)\n170 (6.69)\n56 (2.22)\n240 (9.46)\nBOTTOM VIEW\n(LOOKING UP)\n81 (3.19)\n132 (5.21) \n156 (6.14)\n224 (8.82)\n126 (4.95)\n61 (2.38)\n116 (4.55)\n193 (7.60)\n233 (9.17)\n97 (3.83)\n152 (6.00)\n990-4705D-001\n31\nPiping Diagrams\nACRC300 Series"
+        },
+        {
+          "rank": 5,
+          "index_position": 1260,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p20:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p20:c1",
+          "page": 20,
+          "score": 0.5346250534057617,
+          "model_families": [],
+          "text": "Internal Components—ACRC301H\nItem\nDescription\nItem\nFan\nPipe connection, water outlet\nSupply air temperature sensor,\ntop\nReturn air temperature sensor,\nbottom\nSupply air temperature sensor,\nbottom\n3-way valve actuator\nCoil\nTop pipe connection for optional\nrecirculation pump\nFlow meter\nHumidity sensor\nBottom pipe connection for\noptional recirculation pump\nAuto transfer switch (ATS) box\nDrain valve\nElectrical box\nInlet shutoff valve (1 1/4-in.)\nReturn air temperature sensor,\ntop\nPipe connection, water inlet\nJunction box, top position\n2-way valve (1-in.) bypass shut-\noff\nService valve (air purging)\nRack joining brackets\nService valve (inlet water\npressure test)\nService valve (outlet water\npressure test)\n20\n990-4705D-001\nACRC300 Series\nComponent Identification"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q019",
+      "question": "How does the CyberRow CW E² controller respond to changing heat loads?",
+      "question_type": "paraphrased",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 18.919600057415664,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5147,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c5",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c5",
+          "page": 17,
+          "score": 0.6644953489303589,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "t of power failure.\nThe controller shall be designed to manage temperature levels to a user defined setpoint via control output \nsignals to the CyberRow unit.\n17\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 2,
+          "index_position": 5092,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p17:c5",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c5",
+          "page": 17,
+          "score": 0.6644953489303589,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "t of power failure.\nThe controller shall be designed to manage temperature levels to a user defined setpoint via control output \nsignals to the CyberRow unit.\n17\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 3,
+          "index_position": 5037,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf:p17:c5",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c5",
+          "page": 17,
+          "score": 0.6644953489303589,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "t of power failure.\nThe controller shall be designed to manage temperature levels to a user defined setpoint via control output \nsignals to the CyberRow unit.\n17\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 4,
+          "index_position": 5146,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c4",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c4",
+          "page": 17,
+          "score": 0.6151010990142822,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "Contracts\nIncluded in the system’s electrical control circuit shall be a two-pin terminal connection for remote stop/start of \nthe CyberRow air conditioner by remote source.\nMain Power Service Switch\nThe CyberRow unit shall be provided with a unit mounted main power service switch.\nE2 Microprocessor Controller\nThe advanced microprocessor based E² controller shall be equipped with flexible software capable of meeting \nthe specific needs of the application. The setpoints shall be default and their ranges shall be easily viewed and \nadjusted from the user interface display. The program and operating parameters shall be permanently stored on \na non-volatile system in the event of power failure.\nThe controller shall be designed to manage temperature levels to a user defined setpoint via control"
+        },
+        {
+          "rank": 5,
+          "index_position": 5091,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p17:c4",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p17:c4",
+          "page": 17,
+          "score": 0.6151010990142822,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "Contracts\nIncluded in the system’s electrical control circuit shall be a two-pin terminal connection for remote stop/start of \nthe CyberRow air conditioner by remote source.\nMain Power Service Switch\nThe CyberRow unit shall be provided with a unit mounted main power service switch.\nE2 Microprocessor Controller\nThe advanced microprocessor based E² controller shall be equipped with flexible software capable of meeting \nthe specific needs of the application. The setpoints shall be default and their ranges shall be easily viewed and \nadjusted from the user interface display. The program and operating parameters shall be permanently stored on \na non-volatile system in the event of power failure.\nThe controller shall be designed to manage temperature levels to a user defined setpoint via control"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q020",
+      "question": "Which GPS pump variant is suited to high head pressure with low flow rate?",
+      "question_type": "paraphrased",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": true,
+      "latency_ms": 20.00909997150302,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 6163,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 2,
+          "index_position": 6103,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (3).pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (3).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 3,
+          "index_position": 6043,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 4,
+          "index_position": 5983,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 5,
+          "index_position": 3180,
+          "chunk_id": "STULZ CeilAir Engineering Manual.pdf:p7:c4",
+          "source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CeilAir Engineering Manual.pdf:p7:c4",
+          "page": 7,
+          "score": 0.466785192489624,
+          "model_families": [],
+          "text": "Head pressure shall be automatically controlled by a factory \ninstalled 2-way water regulating valve rated for 150 psi wwp \n 3-way and high pressure 300 to 400 psi rated valves are \navailable as options. See “Water and Glycol Regulating \nControl Valves” on page 74. \n* 2-way valves are factory installed; 3-way valves are ﬁeld \ninstalled. \nDX - Glycol-Cooled Systems: Integral \nSelf-Contained (Models OHS-( )-G / DG) \nThe system shall be a self-contained, ceiling mounted air \nconditioner to include integral glycol cooled, coaxial con- \ndenser with factory installed head pressure glycol regulating \ncontrol valve(s). Condenser (source) glycol solution shall be \nprovided via a CeilAiR model GPS-( )-( ) / FSS/FDS remote \nglycol pump package and drycooler system. \nThe system shall require only sing"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q021",
+      "question": "Why does the ACRC300 Series installation manual recommend a vapor barrier around the data center room?",
+      "question_type": "paraphrased",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.699799944646657,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 1264,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5687247514724731,
+          "model_families": [],
+          "text": "Location, Power, and Water Considerations\nRoom Preparation\nDuring the design of the data center, consider ease of entry for the equipment,\nfloor loading factors, and accessibility to piping and wiring.\nSeal the room with a vapor barrier to minimize moisture infiltration. (Polyethylene\nfilm is recommended for ceiling and wall applications.) Apply rubber- or plastic-\nbased paints to concrete walls and floors.\nInsulate the room to minimize the influence of exterior heat loads. Use the\nminimum required amount of fresh air for make up to comply with local and\nnational codes and regulations. Fresh air imposes extreme load variation on the\ncooling equipment from summer to winter and causes increased operating costs.\nThe cooling unit is a sensible-cooling, air conditioning unit for in-row use in d"
+        },
+        {
+          "rank": 2,
+          "index_position": 1292,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c1",
+          "page": 41,
+          "score": 0.5005735158920288,
+          "model_families": [],
+          "text": "Layout and Piping Considerations\nFluid pipes are not allowed directly above electrical cooling units and must be kept\nseparate from any electrical runs or wiring. All fluid piping must be installed above\nthe aisles. If any piping makes a turn, or must be routed over electrical equipment,\nthere must be a drip tray under the pipe that will protect the equipment from\ncondensation and leaks.\nInsulation\nInsulate water lines to protect personnel, protect components from condensate,\nand to minimize condensation\nSee Insulation, page 44.\nSupply and Return Piping\nNOTE: This section covers a bottom piping configuration only. The\nACRC301S model is shown in the illustrations; the process will be the same\nfor ACRC301H units.\nNOTE: Before installing pipes, use the service valves to discharge\ngas from the"
+        },
+        {
+          "rank": 3,
+          "index_position": 1323,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p61:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p61:c1",
+          "page": 61,
+          "score": 0.48696714639663696,
+          "model_families": [],
+          "text": "0001007830_A\nTemperature and Humidity Sensor—ACRC301H\nInstallation Considerations\nThe temperature and humidity sensor located in the middle of the rear of the\nACRC301H cooling unit is used to calculate the dew point. It is recommended to\nrelocate the sensor to the front of a rack in the cold aisle (rack air inlet side). It is\nnot recommended to place the sensor in front of areas with little to no active rack\nair flow.\nNOTE: The sensor will still operate properly if it is not relocated; however, the\nreadings will not be as accurate.\nSENSOR\nLOCATION\nna6664a\n990-4705D-001\n61\nElectrical Connections\nACRC300 Series"
+        },
+        {
+          "rank": 4,
+          "index_position": 1265,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c2",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c2",
+          "page": 24,
+          "score": 0.4806928336620331,
+          "model_families": [],
+          "text": " and causes increased operating costs.\nThe cooling unit is a sensible-cooling, air conditioning unit for in-row use in data\ncenters. The cooling unit does not have humidification or dehumidification control.\nRoom humidity must be within acceptable operating conditions before starting the\ncooling unit. If operated in spaces where the humidity is in the unacceptable\noperating conditions section of the Operating Guidelines chart (see the InRow CW\nOperation and Maintenance manual), the cooling unit condenses excess water\nvapor from the air. For units that contain condensate pumps, this condition will\nexceed the pumps pumping capacity, causing the cooling unit to send an alarm\nand shut down to avoid overflowing the condensate pan. The condensate pump\nwill run until the fluid level in the pan is"
+        },
+        {
+          "rank": 5,
+          "index_position": 1267,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c4",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c4",
+          "page": 24,
+          "score": 0.46451470255851746,
+          "model_families": [],
+          "text": " capacity to handle all loads.\nDo not connect two InRow cooling units with the same branch circuit.\nChilled Water Temperature Requirements\nFor ACRC301H units, the chilled water temperature needs to be higher than the\ndew point of the room. If the dew point is too high, an optional dew point control\npump is available for installation in ACRC301H units. The InRow CW units do not\nprovide precision humidity control for the ITenvironment.\nCooling Unit Location\nRefer to the floor layout drawing for the exact placement of the cooling unit in the\nrow of ITequipment. This layout drawing can be found in the Configure-to-Order\n24\n990-4705D-001\nACRC300 Series\nLocation, Power, and Water Considerations"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q022",
+      "question": "How should the chilled-water temperature for an ACRC301H relate to the room dew point?",
+      "question_type": "paraphrased",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 18.858300056308508,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 1267,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c4",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p24:c4",
+          "page": 24,
+          "score": 0.6287339925765991,
+          "model_families": [],
+          "text": " capacity to handle all loads.\nDo not connect two InRow cooling units with the same branch circuit.\nChilled Water Temperature Requirements\nFor ACRC301H units, the chilled water temperature needs to be higher than the\ndew point of the room. If the dew point is too high, an optional dew point control\npump is available for installation in ACRC301H units. The InRow CW units do not\nprovide precision humidity control for the ITenvironment.\nCooling Unit Location\nRefer to the floor layout drawing for the exact placement of the cooling unit in the\nrow of ITequipment. This layout drawing can be found in the Configure-to-Order\n24\n990-4705D-001\nACRC300 Series\nLocation, Power, and Water Considerations"
+        },
+        {
+          "rank": 2,
+          "index_position": 1323,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p61:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p61:c1",
+          "page": 61,
+          "score": 0.6283342838287354,
+          "model_families": [],
+          "text": "0001007830_A\nTemperature and Humidity Sensor—ACRC301H\nInstallation Considerations\nThe temperature and humidity sensor located in the middle of the rear of the\nACRC301H cooling unit is used to calculate the dew point. It is recommended to\nrelocate the sensor to the front of a rack in the cold aisle (rack air inlet side). It is\nnot recommended to place the sensor in front of areas with little to no active rack\nair flow.\nNOTE: The sensor will still operate properly if it is not relocated; however, the\nreadings will not be as accurate.\nSENSOR\nLOCATION\nna6664a\n990-4705D-001\n61\nElectrical Connections\nACRC300 Series"
+        },
+        {
+          "rank": 3,
+          "index_position": 3383,
+          "chunk_id": "STULZ CeilAir Engineering Manual.pdf:p54:c5",
+          "source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CeilAir Engineering Manual.pdf:p54:c5",
+          "page": 54,
+          "score": 0.5387553572654724,
+          "model_families": [],
+          "text": "60 \nN/A \nN/A \nN/A \nN/A \n208/3/60 \n35.4 \n34 \n35.9 \n45.3 \n50 \n38.1 \n36.7 \n38.5 \n51 \n60 \n43.3 \n41.3 \n43.9 \n59.3 \n70 \n51.5 \n48.2 \n52.5 \n64.3 \n70 \n460/3/60 \n17.8 \n17.2 \n18 \n23.3 \n25 \n19.7 \n19 \n19.9 \n26.7 \n30 \n22 \n21 \n22.3 \n29 \n30 \n24.9 \n23.5 \n25.3 \n31.9 \n35 \nCOOLING and HUMIDIFIER only, with or without Hot Gas, Hot Water or Steam Reheat (No Electric Reheat/Heat and Condensate Pump) \n208/1/60 \nN/A \nN/A \nN/A \nN/A \n277/1/60 \nN/A \nN/A \nN/A \nN/A \n208/3/60 \n34.4 \n31.6 \n35.4 \n39.6 \n45 \n35.9 \n33.1 \n36.7 \n56.3 \n50 \n44.4 \n40.4 \n45.6 \n59.7 \n70 \n58.5 \n51.9 \n60.5 \n66.9 \n80 \n460/3/60 \n16 \n14.8 \n16.4 \n19.5 \n20 \n17.7 \n16.3 \n18.1 \n23.7 \n30 \n21.8 \n19.8 \n22.4 \n27.6 \n35 \n26.2 \n23.4 \n27 \n31.7 \n40 \nCOOLING and ELECTRIC REHEAT/HEAT and HUMIDIFIER (No Condensate Pump) \n208/1/60 \nN/A \nN/A \nN/A \nN/A \n277/1/60 \nN/A \nN/A "
+        },
+        {
+          "rank": 4,
+          "index_position": 3328,
+          "chunk_id": "STULZ CeilAir Engineering Manual.pdf:p43:c1",
+          "source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CeilAir Engineering Manual.pdf:p43:c1",
+          "page": 43,
+          "score": 0.5097954273223877,
+          "model_families": [],
+          "text": "37 \nCeilAiR ENGINEERING MANUAL \n \n \n \nChilled Water Air Handler Cooling Capacities, 3.5−12 kW (Con’t) \nModel OHS- \n012-C \n018-C \n024-C \n032-C \n040-C \n80 °F DB / 65 °F WB, 45% RH \nHigh Flow \n(8 °F ΔTw) \nTotal, kW (MBH) \n5.9 (20.3) \n8.1 (27.8) \n9.3 (31.8) \n10.8 (36.9) \n13.9 (47.4) \nSensible, kW (MBH) \n4.6 (15.6) \n6.5 (22.1) \n7.5 (25.7) \n8.7 (29.7) \n11.5 (39.2) \nFlow Rate, GPM (Pressure Drop, ftH2O) \n5.1 (15.7) \n6.9 (27.5) \n8.0 (35.4) \n9.2 (19.5) \n11.8 (30.8) \nMed Flow \n(10 °F ΔTw) \nTotal, kW (MBH) \n5.5 (18.9) \n7.7 (26.2) \n8.8 (30.1) \n10.1 (34.6) \n13.1 (44.9) \nSensible, kW (MBH) \n4.4 (15) \n6.2 (21.3) \n7.3 (24.8) \n8.3 (28.5) \n11.1 (37.8) \nFlow Rate, GPM (Pressure Drop, ftH2O) \n3.8 (9.1) \n5.2 (16.3) \n6.0 (21.1) \n6.9 (11.5) \n9.0 (18.5) \nLow Flow \n(12 °F ΔTw) \nTotal, kW (MBH) \n5.1 (17.6) \n7.2 (24"
+        },
+        {
+          "rank": 5,
+          "index_position": 4747,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (1).pdf:p24:c2",
+          "source_file": "STULZ CyberOne DX Engineering Manual (1).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c2",
+          "page": 24,
+          "score": 0.49653151631355286,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Humidiﬁcation (No Electric Reheat)\n208/3/60\nNo\nN/A\nN/A\n44.1\n50\n46.4\n60\n61.5\n90\n72.0\n100\n208/3/60\nYes\nN/A\nN/A\n46.2\n60\n48.5\n60\n63.6\n90\n74.1\n110\n460/3/60\nNo\nN/A\nN/A\n21.5\n25\n22.8\n30\n29.7\n40\n32.9\n50\n460/3/60\nYes\nN/A\nN/A\n22.3\n25\n23.6\n30\n30.5\n45\n33.7\n50\n575/3/60\nNo\nN/A\nN/A\n16.6\n20\n18.9\n25\n22.6\n30\n24.6\n35\n575/3/60\nYes\nN/A\nN/A\n17.2\n20\n19.6\n25\n23.2\n30\n25.2\n35\nCooling Only\n208/3/60\nNo\nN/A\nN/A\n27.8\n40\n30.1\n45\n47.3\n70\n57.8\n90\n208/3/60\nYes\nN/A\nN/A\n29.9\n45\n32.2\n45\n49.4\n70\n59.9\n90\n460/3/60\nNo\nN"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q023",
+      "question": "Why does humiFog direct require demineralised feedwater?",
+      "question_type": "paraphrased",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 19.465700024738908,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 2354,
+          "chunk_id": "FG_humiFog manual_maintenance_en.pdf:p12:c1",
+          "source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_humiFog manual_maintenance_en.pdf:p12:c1",
+          "page": 12,
+          "score": 0.7116761207580566,
+          "model_families": [],
+          "text": "12\nENG\n\"humiFog direct\" +0300073EN rel. 1.1 - 20.10.2017\n2.2.2 \nFeedwater characteristics\nhumiFog Direct requires demineralised water, so as to ensure:\n• minimum maintenance;\n• no blockages of the nozzles;\n• no dust (the droplets that evaporate will not leave mineral salts in the \nenvironment);\n• improved hygiene.\nThe use of demineralised water is also required to comply with standards \nUNI8883, VDI6022 and VDI3803. \nhumiFog Direct must only operate on demineralised water that falls \nwithin the limits listed in the following table. Normally, these values can \nbe obtained by reverse osmosis or nanoﬁ ltration of the feedwater.  \nSpecifi c conductivity\n25 - 80 μS/cm\npH\n5.5 – 8.5\nTotal hardness (TH)\n0 - 25 mg/l CaCO3\nTemporary hardness\n0 - 15 mg/l CaCO3\nChlorides (Cl)\n0 - 10 ppm Cl\nIron + mang"
+        },
+        {
+          "rank": 2,
+          "index_position": 2333,
+          "chunk_id": "FG_humiFog manual_maintenance_en.pdf:p7:c1",
+          "source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_humiFog manual_maintenance_en.pdf:p7:c1",
+          "page": 7,
+          "score": 0.4878827929496765,
+          "model_families": [],
+          "text": "7\nENG\n\"humiFog direct\" +0300073EN rel. 1.1 - 20.10.2017\n1. CARATTERISTICHE GENERALI E MODELLI\n1.1 General description\nhumiFog Direct is a direct humidiﬁ er for room installation. It consists \nof a pumping unit (also called the cabinet) and a distribution system \n(comprising blower units) to be installed directly in the room to be \nhumidiﬁ ed and cooled. The pumping unit is connected to the blower \nunits by high pressure hoses.\nThe cabinet is ﬁ tted with a pump that delivers water at high pressure (70 \nbars) to the nozzles on the blower units, where it is atomised into very \nﬁ ne droplets that evaporate spontaneously. \nThe cabinets are available in the single zone and two-zone version. The \nlatter can manage two independent zones, reading two separate signals \n(from a probe or external cont"
+        },
+        {
+          "rank": 3,
+          "index_position": 2471,
+          "chunk_id": "FG_humiFog manual_maintenance_en.pdf:p32:c5",
+          "source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_humiFog manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_humiFog manual_maintenance_en.pdf:p32:c5",
+          "page": 32,
+          "score": 0.48138299584388733,
+          "model_families": [],
+          "text": "ypass > 65°C\nPossible extended recirculation of water through the \nbypass. Check:\n• that the humidiﬁ cation capacity set on screen Dc18 is \nequal to the no. of nozzles x capacity of each nozzle;\n• that the zone can deliver a ﬂ ow-rate of water ≥ the \nminimum ﬂ ow-rate supplied by the pump;\n• that the NTC probe is connected to terminals J5.2-J5.3\nManual\nActive\nShutdown\nLow press. on probe LPS\nABA09 No water or feedwater \npressure < 0.3 bars\nPossible absence of feedwater or low feedwater \npressure. Check:\n• that there is no alarm on the reverse osmosis system \nupstream of humiFog Direct \n• that there is an expansion vessel or storage vessel with \nsuitably calibrated pump upstream of humiFog Direct.\n• operation of the ﬁ ll solenoid valve.\nManual / \nautomatic\nActive\nShutdown\n(The unit \nperiodi"
+        },
+        {
+          "rank": 4,
+          "index_position": 2008,
+          "chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p18:c3",
+          "source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p18:c3",
+          "page": 18,
+          "score": 0.43290409445762634,
+          "model_families": [],
+          "text": " the same substances that are dissolved in the supply water, yet in greater quantities;\no\ncan reach a temperature of 100°C (212°F);\no\nis not toxic and thus may be drained into the sewage system;\no\nfor drain tempering versions, water temperature will be 60°C (140°F), with a ma inlet temperature of\n25°C (77°F).\nImportant: completely demineralised water is aggressive. For connection to a feedwater system with\ncompletely demineralised water, only use components made from chemically-resistant plastic (e.g.\npolypropylene) or stainless steel.\n18  |  2. Connections\ngaSteam - UG +0300090EN rel. 1.2  – 09.10.2018"
+        },
+        {
+          "rank": 5,
+          "index_position": 1973,
+          "chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p3:c7",
+          "source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_source_file": "FG_gaSteam manual_maintenance_en.pdf",
+          "canonical_chunk_id": "FG_gaSteam manual_maintenance_en.pdf:p3:c7",
+          "page": 3,
+          "score": 0.4316006600856781,
+          "model_families": [],
+          "text": "ude an earth\nconnection,using the special yellow-green terminal available\nin the humidifier.\nImportant:\nl Disconnect the appliance from the mains power supply\nbefore accessing any internal parts.\nl Environmental and power supply conditions must conform\nto the values specified on the product rating labels.\nl The product is designed exclusively to humidify rooms\neither directly or through distribution systems (ducts).\nl Only qualified personnel who are aware of the necessary\nprecautions and able to perform the required operations\ncorrectly may install, operate or carry out technical service\non the product.\nl Only water with the characteristics indicated in this manual\nmust be used for steam production.\nl Only water with the characteristics indicated in this manual\nmust be used to produce the"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q024",
+      "question": "What precautions does the Bosch GKS 65 GCE manual give for sawing light building materials?",
+      "question_type": "paraphrased",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 20.51599998958409,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 3141,
+          "chunk_id": "gks_65_gce_professional.pdf:p10:c3",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p10:c3",
+          "page": 10,
+          "score": 0.6401138305664062,
+          "model_families": [],
+          "text": ".\nGuide the switched on power tool against the workpiece and \ncarefully start the cut. Continue the cut with low feed and \nwithout interruption, so that the saw teeth do not gum up too \nquickly.\nSawing Non-ferrous Metals (GKS 65 GCE)\nNote: Use only a sharp saw blade that is suitable for non-fer-\nrous metals. This ensures a clean cut and prevents blade bind-\ning.\nGuide the switched on power tool against the workpiece and \ncarefully start the cut. Continue the cut with low feed and \nwithout interruption.\nWhen sawing profiles, always begin the cut from the narrow \nside; when sawing U-profiles, never start the cut from the \nopen side. Support long profiles in order to avoid blade bind-\ning and kickback of the power tool.\nSawing Light Building Materials (Materials with Mineral \nContent) (GKS 65"
+        },
+        {
+          "rank": 2,
+          "index_position": 3142,
+          "chunk_id": "gks_65_gce_professional.pdf:p10:c4",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p10:c4",
+          "page": 10,
+          "score": 0.5999851226806641,
+          "model_families": [],
+          "text": "lade bind-\ning and kickback of the power tool.\nSawing Light Building Materials (Materials with Mineral \nContent) (GKS 65 GCE)\nf When sawing light building materials, observe the stat-\nutory provisions and the recommendations of the ma-\nterial suppliers.\nLight building materials may only be sawn dry and when ap-\nplying dust extraction. Always work with the guide rail 30 (ac-\ncessory).\nThe vacuum cleaner must be approved for the extraction of \nmasonry dust. Bosch provides suitable vacuum cleaners.\nSawing with Parallel Guide (see figure D)\nThe parallel guide 11 enables exact cuts along a workpiece \nedge and cutting strips of the same dimension.\nLoosen wing bolt 7 and slide the scale of the parallel guide 11 \nthrough the guide in the base plate 13. Adjust the desired cut-\nting width as the sca"
+        },
+        {
+          "rank": 3,
+          "index_position": 3119,
+          "chunk_id": "gks_65_gce_professional.pdf:p7:c1",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p7:c1",
+          "page": 7,
+          "score": 0.596211314201355,
+          "model_families": [],
+          "text": "16 | English \n1 619 X06 442 | (10.6.11)\nBosch Power Tools\nwood while resting firmly on the workpiece. With suitable saw \nblades, thin-walled non-ferrous metals, e. g., profiles, can al-\nso be sawed.\nWorking ferrous metals is not permitted.\nGKS 65 GCE:\nThe machine is intended for lengthways and crossways cut-\nting of wood with straight cutting lines as well as mitre cuts in \nwood while resting firmly on the workpiece. With suitable saw \nblades, thin-walled non-ferrous metals, e. g., profiles, light \nuilding materials and plastic can also be sawed.\nWorking ferrous metals is not permitted.\nProduct Features\nThe numbering of the product features refers to the illustra-\ntion of the machine on the graphics page.\n1 On/Off switch\n2 Lock-off button for On/Off switch\n3 Thumbwheel for speed preselecti"
+        },
+        {
+          "rank": 4,
+          "index_position": 3139,
+          "chunk_id": "gks_65_gce_professional.pdf:p10:c1",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p10:c1",
+          "page": 10,
+          "score": 0.5847882032394409,
+          "model_families": [],
+          "text": "English | 19\nBosch Power Tools\n1 619 X06 442 | (9.6.11)\nSpeed preselection (GKS 65 GCE)\nThe required speed can be preselected with the thumbwheel \n3 (also while running).\nThe required speed depends on the saw blade being used and \non the material being worked (see overview of saw blades at \nthe end of these operating instructions).\nWorking Advice\nProtect saw blades against impact and shock.\nGuide the machine evenly and with light feed in the cutting di-\nrection. Excessive feed significantly reduces the service life of \nthe saw blade and can cause damage to the power tool.\nSawing performance and cutting quality depend essentially \non the condition and the tooth form of the saw blade. There-\nfore, use only sharp saw blades that are suited for the material \nto be worked.\nSawing Wood\nThe corre"
+        },
+        {
+          "rank": 5,
+          "index_position": 1428,
+          "chunk_id": "d1413e.pdf:p2:c14",
+          "source_file": "d1413e.pdf",
+          "canonical_source_file": "d1413e.pdf",
+          "canonical_chunk_id": "d1413e.pdf:p2:c14",
+          "page": 2,
+          "score": 0.5555771589279175,
+          "model_families": [],
+          "text": "such as hammerdrilling and drilling metals.\n• Do not operate this tool for long periods of time. Vibration caused by hammer action may \nbe harmful to your hands and arms. Use gloves to provide extra cushion and limit exposure by \ntaking frequent rest periods.\n• Air vents often cover moving parts and should be avoided. Loose clothes, jewelry or long \nhair can be caught in moving parts.\n WARNING: ALWAYS use safety glasses. Everyday eyeglasses are NOT safety glasses. Also use \nface or dust mask if cutting operation is dusty. ALWAYS WEAR CERTIFIED SAFETY EQUIPMENT:\n• ANSI Z87.1 eye protection (CAN/CSA Z94.3),\n• ANSI S12.6 (S3.19) hearing protection,\n• NIOSH/OSHA/MSHA respiratory protection.\n WARNING: Some dust created by power sanding, sawing, grinding, drilling, and other \nconstruction activi"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q025",
+      "question": "At 100°FDB and 69.2°FWB entering air what are the total cooling capacities of CyberRow DX CRS-042-W and CRS-084-W in MBH?",
+      "question_type": "table_based",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 24.1928999312222,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5290,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.7215005159378052,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        },
+        {
+          "rank": 2,
+          "index_position": 5231,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.7215005159378052,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        },
+        {
+          "rank": 3,
+          "index_position": 5172,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.7215005159378052,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        },
+        {
+          "rank": 4,
+          "index_position": 5305,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p12:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p12:c1",
+          "page": 12,
+          "score": 0.6980669498443604,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "12\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nModel: CRS-\n042 - AR\n042 - W\n042-G\n084-AR\n084-W\n084-G\nNet DX Cooling Capacity - MBH / kW (Includes Motor heat @ Rated CFM)\n100°FDB / 69.2°FWB Entering Air Temperature\nTotal\nMBH\n52.0\n55.0\n51.0\n99.0\n107.0\n97.0\nSensible\n52.0\n55.0\n51.0\n99.0\n107.0\n97.0\nTotal\nkW\n15.1\n16.2\n14.8\n28.9\n31.3\n28.3\nSensible\n15.1\n16.2\n14.8\n28.9\n31.0\n28.3\n95°FDB / 67.7°FWB Entering Air Temperature\nTotal\nMBH\n49.0\n53.0\n48.0\n94.0\n101.0\n92.0\nSensible\n49.0\n53.0\n48.0\n94.0\n101.0\n92.0\nTotal\nkW\n14.3\n15.4\n14.0\n27.4\n29.7\n26.8\nSensible\n14.3\n15.4\n14.0\n27.4\n29.7\n26.8\n90°FDB / 66.1°FWB Entering Air Temperature\nTotal\nMBH\n46.0\n50.0\n45.0\n88.0\n97.0\n88.0\nSensible\n46.0\n50.0\n45.0\n88.0\n97.0\n88.0\nTotal\nkW\n13.5\n14.7\n13.2\n25.8\n28.5\n25.7\nSensible\n13.5\n14.7\n13.2\n25.8\n28.5\n25.7\n85°FDB / 64.5°FW"
+        },
+        {
+          "rank": 5,
+          "index_position": 5246,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p12:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p12:c1",
+          "page": 12,
+          "score": 0.6980669498443604,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "12\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nModel: CRS-\n042 - AR\n042 - W\n042-G\n084-AR\n084-W\n084-G\nNet DX Cooling Capacity - MBH / kW (Includes Motor heat @ Rated CFM)\n100°FDB / 69.2°FWB Entering Air Temperature\nTotal\nMBH\n52.0\n55.0\n51.0\n99.0\n107.0\n97.0\nSensible\n52.0\n55.0\n51.0\n99.0\n107.0\n97.0\nTotal\nkW\n15.1\n16.2\n14.8\n28.9\n31.3\n28.3\nSensible\n15.1\n16.2\n14.8\n28.9\n31.0\n28.3\n95°FDB / 67.7°FWB Entering Air Temperature\nTotal\nMBH\n49.0\n53.0\n48.0\n94.0\n101.0\n92.0\nSensible\n49.0\n53.0\n48.0\n94.0\n101.0\n92.0\nTotal\nkW\n14.3\n15.4\n14.0\n27.4\n29.7\n26.8\nSensible\n14.3\n15.4\n14.0\n27.4\n29.7\n26.8\n90°FDB / 66.1°FWB Entering Air Temperature\nTotal\nMBH\n46.0\n50.0\n45.0\n88.0\n97.0\n88.0\nSensible\n46.0\n50.0\n45.0\n88.0\n97.0\n88.0\nTotal\nkW\n13.5\n14.7\n13.2\n25.8\n28.5\n25.7\nSensible\n13.5\n14.7\n13.2\n25.8\n28.5\n25.7\n85°FDB / 64.5°FW"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q026",
+      "question": "At 95°FDB entering air with 40°F EWT and 10°F delta T what are the net total and net sensible capacities of CyberRow CW CRS-090-C in Btu/h?",
+      "question_type": "table_based",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 25.952900061383843,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5129,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "page": 11,
+          "score": 0.652470052242279,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "11\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n24 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n270,762\n79.4\n267,158\n78.3\n56.0\n55.2\n12°F ΔT\n252,610\n74.0\n252,610\n74.0\n43.5\n34.3\n45°F EWT\n10°F ΔT\n235,275\n69.0\n235,275\n69.0\n49.0\n42.6\n12°F ΔT\n228,040\n66.8\n228,040\n66.8\n39.5\n28.4\n50°F EWT\n10°F ΔT\n210,435\n61.7\n210,435\n61.7\n44.0\n34.5\n12°F ΔT\n203,363\n59.6\n203,363\n59.6\n35.5\n23.1\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n245,849\n72.1\n239,969\n70.3\n51.0\n46.4\n12°F ΔT\n239,974\n70.3\n235,218\n68.9\n41.5\n31.5\n45°F EWT\n10°F ΔT\n209,408\n61.4\n209,408\n61.4\n43.5\n34.1\n12°F ΔT\n202,307\n59.3\n202,307\n59.3\n35.2\n22.9\n50°F EWT\n10°F ΔT\n184,879\n54.2\n184,879\n54.2\n39.0\n2"
+        },
+        {
+          "rank": 2,
+          "index_position": 5074,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p11:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "page": 11,
+          "score": 0.652470052242279,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "11\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n24 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n270,762\n79.4\n267,158\n78.3\n56.0\n55.2\n12°F ΔT\n252,610\n74.0\n252,610\n74.0\n43.5\n34.3\n45°F EWT\n10°F ΔT\n235,275\n69.0\n235,275\n69.0\n49.0\n42.6\n12°F ΔT\n228,040\n66.8\n228,040\n66.8\n39.5\n28.4\n50°F EWT\n10°F ΔT\n210,435\n61.7\n210,435\n61.7\n44.0\n34.5\n12°F ΔT\n203,363\n59.6\n203,363\n59.6\n35.5\n23.1\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n245,849\n72.1\n239,969\n70.3\n51.0\n46.4\n12°F ΔT\n239,974\n70.3\n235,218\n68.9\n41.5\n31.5\n45°F EWT\n10°F ΔT\n209,408\n61.4\n209,408\n61.4\n43.5\n34.1\n12°F ΔT\n202,307\n59.3\n202,307\n59.3\n35.2\n22.9\n50°F EWT\n10°F ΔT\n184,879\n54.2\n184,879\n54.2\n39.0\n2"
+        },
+        {
+          "rank": 3,
+          "index_position": 5019,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf:p11:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (1).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p11:c1",
+          "page": 11,
+          "score": 0.652470052242279,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "11\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n24 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n270,762\n79.4\n267,158\n78.3\n56.0\n55.2\n12°F ΔT\n252,610\n74.0\n252,610\n74.0\n43.5\n34.3\n45°F EWT\n10°F ΔT\n235,275\n69.0\n235,275\n69.0\n49.0\n42.6\n12°F ΔT\n228,040\n66.8\n228,040\n66.8\n39.5\n28.4\n50°F EWT\n10°F ΔT\n210,435\n61.7\n210,435\n61.7\n44.0\n34.5\n12°F ΔT\n203,363\n59.6\n203,363\n59.6\n35.5\n23.1\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n245,849\n72.1\n239,969\n70.3\n51.0\n46.4\n12°F ΔT\n239,974\n70.3\n235,218\n68.9\n41.5\n31.5\n45°F EWT\n10°F ΔT\n209,408\n61.4\n209,408\n61.4\n43.5\n34.1\n12°F ΔT\n202,307\n59.3\n202,307\n59.3\n35.2\n22.9\n50°F EWT\n10°F ΔT\n184,879\n54.2\n184,879\n54.2\n39.0\n2"
+        },
+        {
+          "rank": 4,
+          "index_position": 5126,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c1",
+          "page": 10,
+          "score": 0.6381277441978455,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "10\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n12 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n129,617\n38.0\n129,617\n38.0\n26.2\n24.5\n12°F ΔT\n125,139\n36.7\n125,139\n36.7\n21.0\n16.1\n45°F EWT\n10°F ΔT\n117,368\n34.4\n117,368\n34.4\n23.7\n20.1\n12°F ΔT\n113,122\n33.2\n113,122\n33.2\n19.1\n13.4\n50°F EWT\n10°F ΔT\n105,218\n30.8\n105,218\n30.8\n21.4\n16.5\n12°F ΔT\n100,811\n29.5\n100,811\n29.5\n17.0\n10.6\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n121,726\n35.7\n120,757\n35.4\n24.6\n21.8\n12°F ΔT\n112,386\n32.9\n112,386\n32.9\n19.0\n13.3\n45°F EWT\n10°F ΔT\n104,535\n30.6\n104,535\n30.6\n21.2\n16.3\n12°F ΔT\n100,245\n29.4\n100,245\n29.4\n17.0\n10.7\n50°F EWT\n10°F ΔT\n92,192\n27.0\n92,192\n27.0\n18.7\n12."
+        },
+        {
+          "rank": 5,
+          "index_position": 5071,
+          "chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf:p10:c1",
+          "source_file": "STULZ CyberRow CW Engineering Manual QEWR001G (2).pdf",
+          "canonical_source_file": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf",
+          "canonical_chunk_id": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf:p10:c1",
+          "page": 10,
+          "score": 0.6381277441978455,
+          "model_families": [
+            "cyberrow cw"
+          ],
+          "text": "10\nQEWR001G 08/25/2026\nCYBERROW CW ENGINEERING MANUAL\n﻿\n12 in Cabinet\nNet Total Capacity\nNet Sensible Capacity\nFlow Rate\nTotal System \nPressure Drop\nBtu/h\nkW\nBtu/h\nkW\nGPM\nftH20\n100°FDB / 69.2°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n129,617\n38.0\n129,617\n38.0\n26.2\n24.5\n12°F ΔT\n125,139\n36.7\n125,139\n36.7\n21.0\n16.1\n45°F EWT\n10°F ΔT\n117,368\n34.4\n117,368\n34.4\n23.7\n20.1\n12°F ΔT\n113,122\n33.2\n113,122\n33.2\n19.1\n13.4\n50°F EWT\n10°F ΔT\n105,218\n30.8\n105,218\n30.8\n21.4\n16.5\n12°F ΔT\n100,811\n29.5\n100,811\n29.5\n17.0\n10.6\n95°FDB / 67.7°FWB Entering Air Temperature\n40°F EWT \n10°F ΔT\n121,726\n35.7\n120,757\n35.4\n24.6\n21.8\n12°F ΔT\n112,386\n32.9\n112,386\n32.9\n19.0\n13.3\n45°F EWT\n10°F ΔT\n104,535\n30.6\n104,535\n30.6\n21.2\n16.3\n12°F ΔT\n100,245\n29.4\n100,245\n29.4\n17.0\n10.7\n50°F EWT\n10°F ΔT\n92,192\n27.0\n92,192\n27.0\n18.7\n12."
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q027",
+      "question": "For CyberOne DX model 042 in cooling-only mode at 208/3/60 how does adding a condensate pump change the MCA?",
+      "question_type": "table_based",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 24.33359995484352,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 4885,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p36:c2",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "page": 36,
+          "score": 0.5809585452079773,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "nce \nrequirements.\nCondensate Pump\nA condensate pump shall be factory installed within the CyberOne EC DX for automatic removal of \ncondensate and humidiﬁer ﬂush water (if applicable). The condensate pump shall include an internal overﬂow \nsafety ﬂoat which, when wired to the remote start/stop terminals, shall open the unit’s control circuit, thereby \nshutting the unit down in the event of a condensate overﬂow. The condensate pump shall be speciﬁcally \ndesigned to operate with the higher condensate temperatures caused by the ﬂush and drain cycle of the \nelectrode canister humidiﬁers.\nSmoke Detection\nA photo-electric smoke detector shall be factory installed and wired in the return air section of the CyberOne \nEC DX. The photo- electric detector shall include built-in circuitry that perform"
+        },
+        {
+          "rank": 2,
+          "index_position": 4783,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (1).pdf:p36:c2",
+          "source_file": "STULZ CyberOne DX Engineering Manual (1).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "page": 36,
+          "score": 0.5809585452079773,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "nce \nrequirements.\nCondensate Pump\nA condensate pump shall be factory installed within the CyberOne EC DX for automatic removal of \ncondensate and humidiﬁer ﬂush water (if applicable). The condensate pump shall include an internal overﬂow \nsafety ﬂoat which, when wired to the remote start/stop terminals, shall open the unit’s control circuit, thereby \nshutting the unit down in the event of a condensate overﬂow. The condensate pump shall be speciﬁcally \ndesigned to operate with the higher condensate temperatures caused by the ﬂush and drain cycle of the \nelectrode canister humidiﬁers.\nSmoke Detection\nA photo-electric smoke detector shall be factory installed and wired in the return air section of the CyberOne \nEC DX. The photo- electric detector shall include built-in circuitry that perform"
+        },
+        {
+          "rank": 3,
+          "index_position": 4987,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p36:c2",
+          "page": 36,
+          "score": 0.5809584856033325,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "nce \nrequirements.\nCondensate Pump\nA condensate pump shall be factory installed within the CyberOne EC DX for automatic removal of \ncondensate and humidiﬁer ﬂush water (if applicable). The condensate pump shall include an internal overﬂow \nsafety ﬂoat which, when wired to the remote start/stop terminals, shall open the unit’s control circuit, thereby \nshutting the unit down in the event of a condensate overﬂow. The condensate pump shall be speciﬁcally \ndesigned to operate with the higher condensate temperatures caused by the ﬂush and drain cycle of the \nelectrode canister humidiﬁers.\nSmoke Detection\nA photo-electric smoke detector shall be factory installed and wired in the return air section of the CyberOne \nEC DX. The photo- electric detector shall include built-in circuitry that perform"
+        },
+        {
+          "rank": 4,
+          "index_position": 4950,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5623972415924072,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        },
+        {
+          "rank": 5,
+          "index_position": 4848,
+          "chunk_id": "STULZ CyberOne DX Engineering Manual (2).pdf:p24:c1",
+          "source_file": "STULZ CyberOne DX Engineering Manual (2).pdf",
+          "canonical_source_file": "STULZ CyberOne DX Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CyberOne DX Engineering Manual.pdf:p24:c1",
+          "page": 24,
+          "score": 0.5623972415924072,
+          "model_families": [
+            "cyberone dx"
+          ],
+          "text": "24\n09.29.21  © STULZ USA – all rights reserved\nCYBERONE EC DX ENGINEERING MANUAL\nUpflow and Downflow Models 024-120\nElectrical Data - AR, W, G, FC & AWS\nModel\nVolt\nPower\nWith \nCondensate \nPump\n024\n042\n060\n096\n120\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nMCA\nMFS\nCooling with Electric Reheat and Humidiﬁcation\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n30\n29.2\n30\n37.2\n45\n40.3\n50\n460/3/60\nYes\nN/A\nN/A\n28.7\n30\n30.0\n35\n38.0\n45\n41.1\n50\n575/3/60\nNo\nN/A\nN/A\n21.6\n25\n24.0\n25\n28.5\n35\n30.5\n40\n575/3/60\nYes\nN/A\nN/A\n22.3\n25\n24.7\n25\n29.1\n35\n31.1\n40\nCooling with Electric Reheat Only (No Humidifier)\n208/3/60\nNo\nN/A\nN/A\n53.3\n60\n55.6\n60\n72.8\n90\n83.3\n110\n208/3/60\nYes\nN/A\nN/A\n55.4\n60\n57.7\n60\n74.9\n90\n85.4\n110\n460/3/60\nNo\nN/A\nN/A\n27.9\n3"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 5,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q028",
+      "question": "What unit width and depth are listed for SCS-MC-223-D in its 2x2 and 1x4 configurations?",
+      "question_type": "table_based",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 20.808400004170835,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5650,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "page": 28,
+          "score": 0.6332772970199585,
+          "model_families": [],
+          "text": "28\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-223-D (2x2)\n5.14. SCS-MC-223-D (2x2)\n5.15. SCS-MC-223-D (1x4)"
+        },
+        {
+          "rank": 2,
+          "index_position": 5523,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p28:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "page": 28,
+          "score": 0.6332772970199585,
+          "model_families": [],
+          "text": "28\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-223-D (2x2)\n5.14. SCS-MC-223-D (2x2)\n5.15. SCS-MC-223-D (1x4)"
+        },
+        {
+          "rank": 3,
+          "index_position": 5396,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf:p28:c1",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (1).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p28:c1",
+          "page": 28,
+          "score": 0.6332772970199585,
+          "model_families": [],
+          "text": "28\nQECS008E 12/16/2024\nHEAT REJECTION ENGINEERING MANUAL\nSCS-MC>Dimensional Data >SCS-MC-223-D (2x2)\n5.14. SCS-MC-223-D (2x2)\n5.15. SCS-MC-223-D (1x4)"
+        },
+        {
+          "rank": 4,
+          "index_position": 5624,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p12:c3",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p12:c3",
+          "page": 12,
+          "score": 0.5499989986419678,
+          "model_families": [],
+          "text": "-MC-264-D\n73.8\" W x 35.7\" H x 129.2\" D\n898\n82\" W x 48\" H x 142\" D\n1425\nSCS-MC-334-D\n73.8\" W x 35.7\" H x 129.2\" D\n1110\n82\" W x 48\" H x 142\" D\n1625\n3.\t Technical Data\n3.1. Dimensions and Weights"
+        },
+        {
+          "rank": 5,
+          "index_position": 5497,
+          "chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf:p12:c3",
+          "source_file": "STULZ Heat Rejection Engineering Manual QECS008E (2).pdf",
+          "canonical_source_file": "STULZ Heat Rejection Engineering Manual QECS008E.pdf",
+          "canonical_chunk_id": "STULZ Heat Rejection Engineering Manual QECS008E.pdf:p12:c3",
+          "page": 12,
+          "score": 0.5499989986419678,
+          "model_families": [],
+          "text": "-MC-264-D\n73.8\" W x 35.7\" H x 129.2\" D\n898\n82\" W x 48\" H x 142\" D\n1425\nSCS-MC-334-D\n73.8\" W x 35.7\" H x 129.2\" D\n1110\n82\" W x 48\" H x 142\" D\n1625\n3.\t Technical Data\n3.1. Dimensions and Weights"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": null,
+        "mrr_at_5": null,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    }
+  ],
+  "unanswerable_candidates_unscored": [
+    {
+      "question_id": "q029",
+      "question": "What is the official list price in US dollars for a CyberRow DX CRS-042?",
+      "question_type": "unanswerable",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 21.652599913068116,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5338,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5002071857452393,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 2,
+          "index_position": 5279,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5002071857452393,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 3,
+          "index_position": 5220,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p22:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p22:c1",
+          "page": 22,
+          "score": 0.5002071857452393,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "22\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 4,
+          "index_position": 5339,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p23:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p23:c1",
+          "page": 23,
+          "score": 0.48426875472068787,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "23\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        },
+        {
+          "rank": 5,
+          "index_position": 5280,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p23:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p23:c1",
+          "page": 23,
+          "score": 0.48426875472068787,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "23\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿"
+        }
+      ],
+      "metrics": null
+    },
+    {
+      "question_id": "q030",
+      "question": "What is the MFS of a CyberRow DX CRS-084 at 400 V three-phase 60 Hz?",
+      "question_type": "unanswerable",
+      "verified": false,
+      "label_status": "PROVISIONAL / AUTO-LABELED",
+      "chunk_recall_subset": false,
+      "latency_ms": 22.229700000025332,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 5307,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6321477293968201,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 2,
+          "index_position": 5189,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (1).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6321477293968201,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 3,
+          "index_position": 5248,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p13:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p13:c1",
+          "page": 13,
+          "score": 0.6321476697921753,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "13\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNote:  Standard 1 KAIC rating, consult factory for alternative KAIC ratings\nModel: CRS-\n042\n084\nVoltages\nMCA\nMFS\nMCA\nMFS\nCooling Only (Includes Condensate Pump)\n208 V / 1 PH / 60 Hz\n31.9\n50\n39.3\n60\n208 V / 3 PH / 60 Hz\n25.6\n40\n38.1\n60\n460 V / 3 PH / 60 Hz\n12.2\n15\n18.8\n30\n575 V / 3 PH / 60 Hz\n10\n15\n13.7\n20\nElectrical Data\nModels 042 - 084"
+        },
+        {
+          "rank": 4,
+          "index_position": 5290,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.5130259990692139,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        },
+        {
+          "rank": 5,
+          "index_position": 5231,
+          "chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf:p5:c1",
+          "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L (2).pdf",
+          "canonical_source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+          "canonical_chunk_id": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf:p5:c1",
+          "page": 5,
+          "score": 0.5130259990692139,
+          "model_families": [
+            "cyberrow dx"
+          ],
+          "text": "5\nQEWR002L 08/26/2026\nCYBERROW DX ENGINEERING MANUAL\n﻿\nNomenclature\n\nCRS-XXX-X\nSystem\nNominal Capacity (MBH)\nCooling Method\nCyberRow\nRow Based Cooling\n1000s of Btu/h (MBH)\nAR = Remote (Split Air Cooled)\nG = Glycol Cooled\nW = Water Cooled\nNominal Capacity in MBH (1,000s of Btu/h)\n CyberRow System\nWater Cooled System\nCRS -084-W"
+        }
+      ],
+      "metrics": null
+    }
+  ]
+}

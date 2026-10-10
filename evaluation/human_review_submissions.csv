@@ -1,0 +1,6 @@
+question_id,verified,expected_answer,source_pdf_checked,chunk_id_checked
+q010,true,1800 W,true,false
+q018,true,ACRC301H,true,false
+q020,true,GPS A variant,true,false
+q027,false,+2.1 A,false,false
+q029,false,Not stated in checked manual,true,false

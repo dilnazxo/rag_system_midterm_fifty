@@ -30,6 +30,14 @@ SOURCES = [
     },
 ]
 
+BOSCH_SOURCE = {
+    "text": "GKS 65 GCE Professional\nRated power input\nW\n1600\n1600\n1800",
+    "source_file": "gks_65_gce_professional.pdf",
+    "page": 8,
+    "chunk_id": "gks_65_gce_professional.pdf:p8:c4",
+    "score": 0.9,
+}
+
 
 def mock_completion(answer: str, evidence_ids: list[int]) -> SimpleNamespace:
     content = json.dumps({"answer": answer, "evidence_ids": evidence_ids})
@@ -37,6 +45,56 @@ def mock_completion(answer: str, evidence_ids: list[int]) -> SimpleNamespace:
 
 
 class AnswerTest(unittest.TestCase):
+    def test_bosch_valid_json_answer_citing_evidence_one(self) -> None:
+        index = MagicMock()
+        index.search.return_value = [BOSCH_SOURCE]
+        with (
+            patch("answer.OpenAI") as client_class,
+            patch.dict(os.environ, {"OPENAI_API_KEY": "test", "OPENAI_MODEL": "test"}),
+        ):
+            client_class.return_value.chat.completions.create.return_value = mock_completion(
+                "The rated power input is 1800 W [1].", [1]
+            )
+            result = answer_question(
+                "What is the rated power input of the Bosch GKS 65 GCE Professional?",
+                manual_index=index,
+            )
+        self.assertEqual(result["answer"], "The rated power input is 1800 W [1].")
+        self.assertEqual(result["cited_evidence_ids"], [1])
+
+    def test_bosch_cited_plain_text_response(self) -> None:
+        index = MagicMock()
+        index.search.return_value = [BOSCH_SOURCE]
+        content = "The rated power input is 1800 W [1]."
+        with (
+            patch("answer.OpenAI") as client_class,
+            patch.dict(os.environ, {"OPENAI_API_KEY": "test", "OPENAI_MODEL": "test"}),
+        ):
+            client_class.return_value.chat.completions.create.return_value = SimpleNamespace(
+                choices=[SimpleNamespace(message=SimpleNamespace(content=content))]
+            )
+            result = answer_question(
+                "What is the rated power input of the Bosch GKS 65 GCE Professional?",
+                manual_index=index,
+            )
+        self.assertEqual(result["answer"], content)
+        self.assertEqual(result["cited_evidence_ids"], [1])
+
+    def test_plain_text_requires_a_valid_supplied_citation(self) -> None:
+        index = MagicMock()
+        index.search.return_value = [BOSCH_SOURCE]
+        for content in ("The rated power input is 1800 W.", "The rated power input is 1800 W [2].", "The rated power input is 1800 W [1."):
+            with self.subTest(content=content):
+                with (
+                    patch("answer.OpenAI") as client_class,
+                    patch.dict(os.environ, {"OPENAI_API_KEY": "test", "OPENAI_MODEL": "test"}),
+                ):
+                    client_class.return_value.chat.completions.create.return_value = SimpleNamespace(
+                        choices=[SimpleNamespace(message=SimpleNamespace(content=content))]
+                    )
+                    with self.assertRaises(ValueError):
+                        answer_question("What is the rated power input of the Bosch GKS 65 GCE Professional?", manual_index=index)
+
     def test_supplied_index_avoids_reloading_the_saved_index(self) -> None:
         index = MagicMock()
         index.search.return_value = SOURCES

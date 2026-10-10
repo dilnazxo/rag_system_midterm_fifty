@@ -1,0 +1,4 @@
+question_id,question,expected_model,relevant_document,relevant_pages,relevant_chunk_ids,question_type,verified
+q010,What is the rated power input of the Bosch GKS 65 GCE Professional?,GKS 65 GCE,gks_65_gce_professional.pdf,8,gks_65_gce_professional.pdf:p8:c4,exact_technical_value,true
+q018,Which ACRC301 package lists two pipe gaskets for unit pipes rather than four undifferentiated pipe gaskets: ACRC301S or ACRC301H?,InRow RC,990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf,15|16,990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p15:c1|990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p16:c1,equipment_model_distinction,true
+q020,Which GPS pump variant is suited to high head pressure with low flow rate?,STULZ Glycol Systems,STULZ_Glycol_Systems_Engineering_Manual.pdf,5,STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1,paraphrased,true

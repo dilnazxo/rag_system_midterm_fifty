@@ -1,0 +1,257 @@
+{
+  "configuration": "A",
+  "questions": [
+    {
+      "question_id": "q010",
+      "question": "What is the rated power input of the Bosch GKS 65 GCE Professional?",
+      "question_type": "exact_technical_value",
+      "expected_model": "GKS 65 GCE",
+      "ground_truth_levels": [
+        "document",
+        "page",
+        "chunk"
+      ],
+      "answerable": true,
+      "latency_ms": 138.32559995353222,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 3128,
+          "chunk_id": "gks_65_gce_professional.pdf:p8:c4",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p8:c4",
+          "page": 8,
+          "score": 0.5817116498947144,
+          "model_families": [],
+          "text": "Professional\nGKS 65 GCE\nProfessional\nArticle number\n3 601 F67 0..\n3 601 F68 9..\n3 601 F68 9..\nRated power input\nW\n1600\n1600\n1800\nNo-load speed\nmin-1\n5900\n5900\n2300 – 5000\nRotational speed under load, max.\nmin-1\n4200\n4200\n1400 – 4000\nCutting depth, max.\n– for 0° bevel angle\n– for 45° bevel angle\nmm\nmm\n65\n48\n65\n48\n65\n48\nSpindle lock\nz\nz\nz\nSpeed preselection\n–\n–\nz\nConstant electronic control\n–\n–\nz\nTemperature Dependent Overload Protection\n–\n–\nz\nReduced starting current\n–\n–\nz\nBase plate dimensions\nmm\n170 x 305\n203 x 327\n203 x 327\nSaw blade diameter, max.\nmm\n190\n190\n190\nSaw blade diameter, min.\nmm\n184\n184\n184\nBlade thickness, max. \nmm\n1.7\n1.7\n1.7\nTooth thickness/setting, max.\nmm\n2.6\n2.6\n2.6\nTooth thickness/setting, min.\nmm\n1.8\n1.8\n1.8\nMounting bore\nmm\n30\n30\n30\nWeight according to EPTA-Procedure"
+        },
+        {
+          "rank": 2,
+          "index_position": 174,
+          "chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf:p9:c2",
+          "source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf",
+          "canonical_source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf",
+          "canonical_chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf:p9:c2",
+          "page": 9,
+          "score": 0.542873740196228,
+          "model_families": [],
+          "text": "ries range.\nB. Commercially available (not included in the scope of delivery)\nTechnical Data\nImpact drill\nGSB...\n10\n10\nRE\n13\n13\nRE\n16\n16\nRE\nArticle number\n3\n601...\nB16\n0..\nB16\n1..\nB17\n0..\nB17\n1..\nB17\n6..\nB18\n0..\nB18\n1..\nB18\n6..\nRated power input\nW\n500\n500\n600\n600\n701\n701\nPower output\nW\n250\n250\n301\n301\n351\n351\nNo-load speed\n2600\n0–\n2800\n0–\n3000\n0–"
+        },
+        {
+          "rank": 3,
+          "index_position": 124,
+          "chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5 (1).pdf:p9:c2",
+          "source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5 (1).pdf",
+          "canonical_source_file": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf",
+          "canonical_chunk_id": "3611861-aa8f07681bbb92ea9479e50a525334b5.pdf:p9:c2",
+          "page": 9,
+          "score": 0.542873740196228,
+          "model_families": [],
+          "text": "ries range.\nB. Commercially available (not included in the scope of delivery)\nTechnical Data\nImpact drill\nGSB...\n10\n10\nRE\n13\n13\nRE\n16\n16\nRE\nArticle number\n3\n601...\nB16\n0..\nB16\n1..\nB17\n0..\nB17\n1..\nB17\n6..\nB18\n0..\nB18\n1..\nB18\n6..\nRated power input\nW\n500\n500\n600\n600\n701\n701\nPower output\nW\n250\n250\n301\n301\n351\n351\nNo-load speed\n2600\n0–\n2800\n0–\n3000\n0–"
+        },
+        {
+          "rank": 4,
+          "index_position": 1659,
+          "chunk_id": "dba749.pdf:p14:c1",
+          "source_file": "dba749.pdf",
+          "canonical_source_file": "dba749.pdf",
+          "canonical_chunk_id": "dba749.pdf:p14:c1",
+          "page": 14,
+          "score": 0.5375388860702515,
+          "model_families": [],
+          "text": "Bosch Power Tool Division \nMotor Industries Co Ltd \nP B No 3000, Audugodi \nHosur Road, \nBangalore 560 030 \nPh: + 91 (0)80 - 22 99 28 66/22 99 95 15 \n1 609 929 F75 (04.03) O / 16\nPrinted in India - Imprimé en Inde\nChlor\n* Des idées en action.\nDownloaded from www.Manualslib.com manuals search engine"
+        },
+        {
+          "rank": 5,
+          "index_position": 3098,
+          "chunk_id": "gks_65_gce_professional.pdf:p2:c1",
+          "source_file": "gks_65_gce_professional.pdf",
+          "canonical_source_file": "gks_65_gce_professional.pdf",
+          "canonical_chunk_id": "gks_65_gce_professional.pdf:p2:c1",
+          "page": 2,
+          "score": 0.5338708162307739,
+          "model_families": [],
+          "text": "3 |  \n1 619 X06 442 | (9.6.11)\nBosch Power Tools\nA\nGKS 65 GCE\nProfessional\n2\n3\n4\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n1\n17\n23\n22\n21\n5\n18\n19\n20\nOBJ_BUCH-359-003.book  Page 3  Thursday, June 9, 2011  10:18 AM\nDownloaded from www.Manualslib.com manuals search engine"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q018",
+      "question": "Which ACRC301 package lists two pipe gaskets for unit pipes rather than four undifferentiated pipe gaskets: ACRC301S or ACRC301H?",
+      "question_type": "equipment_model_distinction",
+      "expected_model": "InRow RC",
+      "ground_truth_levels": [
+        "document",
+        "page",
+        "chunk"
+      ],
+      "answerable": true,
+      "latency_ms": 31.4097999362275,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 1293,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c2",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c2",
+          "page": 41,
+          "score": 0.56406569480896,
+          "model_families": [],
+          "text": "ess will be the same\nfor ACRC301H units.\nNOTE: Before installing pipes, use the service valves to discharge\ngas from the unit. For service valve locations, see Internal\nComponents—ACRC301S, page 19 or Internal Components—\nACRC301H, page 20.\nFor upper piping configurations, see the instructions that come with the\nupper piping kit.\n1. Remove the pipe connection caps and grommets from the bottom pipe\nconnections.\nna4369a\nCAPS\nGROMMETS\n2. Place the lower piping insulation on the pipes.\n990-4705D-001\n41\nMechanical Connections\nACRC300 Series"
+        },
+        {
+          "rank": 2,
+          "index_position": 1292,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p41:c1",
+          "page": 41,
+          "score": 0.5591527223587036,
+          "model_families": [],
+          "text": "Layout and Piping Considerations\nFluid pipes are not allowed directly above electrical cooling units and must be kept\nseparate from any electrical runs or wiring. All fluid piping must be installed above\nthe aisles. If any piping makes a turn, or must be routed over electrical equipment,\nthere must be a drip tray under the pipe that will protect the equipment from\ncondensation and leaks.\nInsulation\nInsulate water lines to protect personnel, protect components from condensate,\nand to minimize condensation\nSee Insulation, page 44.\nSupply and Return Piping\nNOTE: This section covers a bottom piping configuration only. The\nACRC301S model is shown in the illustrations; the process will be the same\nfor ACRC301H units.\nNOTE: Before installing pipes, use the service valves to discharge\ngas from the"
+        },
+        {
+          "rank": 3,
+          "index_position": 1273,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p29:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p29:c1",
+          "page": 29,
+          "score": 0.5512622594833374,
+          "model_families": [],
+          "text": "Piping and electrical access locations—ACRC301S\n56 (2.22)\n110 (4.35)\n116 (4.55)\n204 (8.02)\n97 (3.83)\n145 (5.72)\n147 (5.80)\n180 (7.10)\n199 (7.85)\n240 (9.46)\n174 (6.84)\n157 (6.20)\n90 (3.54)\n184 (7.26)\n53 (2.08)\n161 (6.34)\n189 (7.43)\n83 (3.27)\n110 (4.31) \nTOP VIEW\nBOTTOM VIEW\n(LOOKING UP)\n* Dimensions are shown in mm (in.).\n990-4705D-001\n29\nPiping Diagrams\nACRC300 Series"
+        },
+        {
+          "rank": 4,
+          "index_position": 1275,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p31:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p31:c1",
+          "page": 31,
+          "score": 0.5499774217605591,
+          "model_families": [],
+          "text": "Piping and electrical access locations—ACRC301H\nna4334a\n158 (6.23)\n280 (11.02)\n130 (5.12)\n170 (6.69)\n56 (2.22)\n240 (9.46)\nBOTTOM VIEW\n(LOOKING UP)\n81 (3.19)\n132 (5.21) \n156 (6.14)\n224 (8.82)\n126 (4.95)\n61 (2.38)\n116 (4.55)\n193 (7.60)\n233 (9.17)\n97 (3.83)\n152 (6.00)\n990-4705D-001\n31\nPiping Diagrams\nACRC300 Series"
+        },
+        {
+          "rank": 5,
+          "index_position": 1260,
+          "chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p20:c1",
+          "source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_source_file": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf",
+          "canonical_chunk_id": "990_4705_InRow_Chilled_Water_Air_Conditioners_300_Installation_Manual.pdf:p20:c1",
+          "page": 20,
+          "score": 0.5346250534057617,
+          "model_families": [],
+          "text": "Internal Components—ACRC301H\nItem\nDescription\nItem\nFan\nPipe connection, water outlet\nSupply air temperature sensor,\ntop\nReturn air temperature sensor,\nbottom\nSupply air temperature sensor,\nbottom\n3-way valve actuator\nCoil\nTop pipe connection for optional\nrecirculation pump\nFlow meter\nHumidity sensor\nBottom pipe connection for\noptional recirculation pump\nAuto transfer switch (ATS) box\nDrain valve\nElectrical box\nInlet shutoff valve (1 1/4-in.)\nReturn air temperature sensor,\ntop\nPipe connection, water inlet\nJunction box, top position\n2-way valve (1-in.) bypass shut-\noff\nService valve (air purging)\nRack joining brackets\nService valve (inlet water\npressure test)\nService valve (outlet water\npressure test)\n20\n990-4705D-001\nACRC300 Series\nComponent Identification"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 0.0,
+        "mrr_at_5": 0.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 0,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    },
+    {
+      "question_id": "q020",
+      "question": "Which GPS pump variant is suited to high head pressure with low flow rate?",
+      "question_type": "paraphrased",
+      "expected_model": "STULZ Glycol Systems",
+      "ground_truth_levels": [
+        "document",
+        "page",
+        "chunk"
+      ],
+      "answerable": true,
+      "latency_ms": 23.81669997703284,
+      "predictions": [
+        {
+          "rank": 1,
+          "index_position": 6163,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 2,
+          "index_position": 6103,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (3).pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (3).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 3,
+          "index_position": 6043,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (2).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 4,
+          "index_position": 5983,
+          "chunk_id": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf:p5:c1",
+          "source_file": "STULZ_Glycol_Systems_Engineering_Manual (1).pdf",
+          "canonical_source_file": "STULZ_Glycol_Systems_Engineering_Manual.pdf",
+          "canonical_chunk_id": "STULZ_Glycol_Systems_Engineering_Manual.pdf:p5:c1",
+          "page": 5,
+          "score": 0.6214815974235535,
+          "model_families": [],
+          "text": "Glycol Systems Engineering Manual \n3 \n \n  \n \n \nPressure Drop/Flow Rate Curves \nThis section provides pressure drop/ﬂow rate curves for the different GPS pump models. The GPS series provides \none to three models per HP rating, speciﬁed as A, B, or C in the model number. The A models are ideal for \napplications with high head pressures with low ﬂow rate. The B models are best for average head pressure and \nﬂow rate to achieve higher efﬁciencies. The C models are designed for situations of low head pressures and high \nﬂow rates. \nA graph containing a pressure drop curve is provided for each model. Note that curves reflect 40% Ethylene Glycol at 45 °."
+        },
+        {
+          "rank": 5,
+          "index_position": 3180,
+          "chunk_id": "STULZ CeilAir Engineering Manual.pdf:p7:c4",
+          "source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_source_file": "STULZ CeilAir Engineering Manual.pdf",
+          "canonical_chunk_id": "STULZ CeilAir Engineering Manual.pdf:p7:c4",
+          "page": 7,
+          "score": 0.466785192489624,
+          "model_families": [],
+          "text": "Head pressure shall be automatically controlled by a factory \ninstalled 2-way water regulating valve rated for 150 psi wwp \n 3-way and high pressure 300 to 400 psi rated valves are \navailable as options. See “Water and Glycol Regulating \nControl Valves” on page 74. \n* 2-way valves are factory installed; 3-way valves are ﬁeld \ninstalled. \nDX - Glycol-Cooled Systems: Integral \nSelf-Contained (Models OHS-( )-G / DG) \nThe system shall be a self-contained, ceiling mounted air \nconditioner to include integral glycol cooled, coaxial con- \ndenser with factory installed head pressure glycol regulating \ncontrol valve(s). Condenser (source) glycol solution shall be \nprovided via a CeilAiR model GPS-( )-( ) / FSS/FDS remote \nglycol pump package and drycooler system. \nThe system shall require only sing"
+        }
+      ],
+      "metrics": {
+        "recall_at_5": 1.0,
+        "mrr_at_5": 1.0,
+        "document_hit_at_5": 1,
+        "page_hit_at_5": 1,
+        "model_confusion_wrong": 0,
+        "model_confusion_classified": 0,
+        "model_confusion_unclassifiable": 0
+      }
+    }
+  ]
+}

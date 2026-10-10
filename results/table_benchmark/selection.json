@@ -1,0 +1,25 @@
+{
+  "selection_criteria": [
+    "Use distinct unsuffixed public engineering manuals; exclude duplicate numbered copies.",
+    "Cover electrical specifications, dimensions, and performance data across at least five manuals.",
+    "Include compact and dense grids, multi-level or merged headers, drawing-adjacent dimension tables, and a table with an adjacent note.",
+    "Use the candidate scan to choose table indexes; this targeted sample tests difficult cases and is not a random corpus estimate or a table-detection recall study."
+  ],
+  "tables": [
+    {"id": "cyberrow_dx_p12_performance", "filename": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf", "page_index": 11, "table_index": 0, "category": "performance", "reason": "Wide cooling-capacity grid with grouped conditions."},
+    {"id": "cyberrow_dx_p13_electrical", "filename": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf", "page_index": 12, "table_index": 0, "category": "electrical", "reason": "Known merged model headers and a note below the table."},
+    {"id": "cyberrow_cw_p10_performance", "filename": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf", "page_index": 9, "table_index": 0, "category": "performance", "reason": "Long, multi-column capacity table."},
+    {"id": "cyberrow_cw_p12_electrical", "filename": "STULZ CyberRow CW Engineering Manual QEWR001G.pdf", "page_index": 11, "table_index": 0, "category": "electrical", "reason": "Compact electrical table with grouped model labels."},
+    {"id": "cyberair_dx_p17_electrical", "filename": "STULZ CyberAir DX Engineering Manual.pdf", "page_index": 16, "table_index": 0, "category": "electrical", "reason": "Dense 18-column electrical specification table."},
+    {"id": "cyberair_dx_p21_dimensions", "filename": "STULZ CyberAir DX Engineering Manual.pdf", "page_index": 20, "table_index": 0, "category": "dimensions", "reason": "Small dimension table embedded on a drawing page."},
+    {"id": "cyberone_dx_p24_electrical", "filename": "STULZ CyberOne DX Engineering Manual.pdf", "page_index": 23, "table_index": 0, "category": "electrical", "reason": "Large model-by-voltage electrical table with grouped columns."},
+    {"id": "cyberone_dx_p27_dimensions", "filename": "STULZ CyberOne DX Engineering Manual.pdf", "page_index": 26, "table_index": 0, "category": "dimensions", "reason": "Dimension table beside equipment drawings."},
+    {"id": "cyberone_cw_p11_performance", "filename": "STULZ_CyberOne_CW_Engineering_Manual.pdf", "page_index": 10, "table_index": 0, "category": "performance", "reason": "Capacity table with model and operating-condition headers."},
+    {"id": "cyberone_cw_p19_electrical", "filename": "STULZ_CyberOne_CW_Engineering_Manual.pdf", "page_index": 18, "table_index": 0, "category": "electrical", "reason": "Dense 10-column power table."},
+    {"id": "heat_rejection_p10_performance", "filename": "STULZ Heat Rejection Engineering Manual QECS008E.pdf", "page_index": 9, "table_index": 0, "category": "performance", "reason": "Heat-rejection values with nested ambient-condition headers and nearby notes."},
+    {"id": "heat_rejection_p12_dimensions", "filename": "STULZ Heat Rejection Engineering Manual QECS008E.pdf", "page_index": 11, "table_index": 0, "category": "dimensions", "reason": "Dimensions and weights with grouped model rows."},
+    {"id": "heat_rejection_p18_electrical", "filename": "STULZ Heat Rejection Engineering Manual QECS008E.pdf", "page_index": 17, "table_index": 0, "category": "electrical", "reason": "Multi-voltage MCA/MFS matrix."},
+    {"id": "glycol_p15_performance", "filename": "STULZ_Glycol_Systems_Engineering_Manual.pdf", "page_index": 14, "table_index": 0, "category": "performance", "reason": "Dense drycooler capacity table with multi-level headers."},
+    {"id": "glycol_p20_electrical", "filename": "STULZ_Glycol_Systems_Engineering_Manual.pdf", "page_index": 19, "table_index": 0, "category": "electrical", "reason": "Very wide 19-column drycooler electrical table."}
+  ]
+}

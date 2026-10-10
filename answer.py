@@ -51,25 +51,35 @@ def _validated_answer(content: str, sources: list[SearchResult]) -> tuple[str, l
     try:
         payload = json.loads(content)
     except json.JSONDecodeError as error:
-        raise ValueError("LLM response is not valid JSON") from error
-    if not isinstance(payload, dict):
-        raise ValueError("LLM response must be a JSON object")
-
-    answer = payload.get("answer")
-    evidence_ids = payload.get("evidence_ids")
-    if not isinstance(answer, str) or not isinstance(evidence_ids, list):
-        raise ValueError("LLM response must contain answer and evidence_ids")
-    if any(type(number) is not int or number < 1 or number > len(sources) for number in evidence_ids):
-        raise ValueError("LLM cited an unknown evidence ID")
-    if len(evidence_ids) != len(set(evidence_ids)):
-        raise ValueError("LLM repeated an evidence ID")
+        # Some compatible chat models return the requested answer as cited
+        # text rather than the requested JSON. Accept only explicit markers;
+        # no citation is added on the model's behalf.
+        if content.lstrip().startswith(("{", "[", "```")):
+            raise ValueError("LLM response is not valid JSON") from error
+        answer = content.strip()
+        evidence_ids = None
+    else:
+        if not isinstance(payload, dict):
+            raise ValueError("LLM response must be a JSON object")
+        answer = payload.get("answer")
+        evidence_ids = payload.get("evidence_ids")
+        if not isinstance(answer, str) or not isinstance(evidence_ids, list):
+            raise ValueError("LLM response must contain answer and evidence_ids")
+        if any(type(number) is not int or number < 1 or number > len(sources) for number in evidence_ids):
+            raise ValueError("LLM cited an unknown evidence ID")
+        if len(evidence_ids) != len(set(evidence_ids)):
+            raise ValueError("LLM repeated an evidence ID")
 
     markers = re.findall(r"\[([^\[\]]+)\]", answer)
     if answer.count("[") != len(markers) or answer.count("]") != len(markers):
         raise ValueError("LLM used malformed citation markers")
     if any(not marker.isdecimal() or int(marker) < 1 or int(marker) > len(sources) for marker in markers):
         raise ValueError("LLM cited an unknown evidence ID")
-    if {int(marker) for marker in markers} != set(evidence_ids):
+    if evidence_ids is None:
+        if not markers:
+            raise ValueError("LLM answer is missing citations")
+        evidence_ids = list(dict.fromkeys(int(marker) for marker in markers))
+    elif {int(marker) for marker in markers} != set(evidence_ids):
         raise ValueError("LLM answer citations differ from evidence_ids")
     if ".pdf" in answer.lower() or re.search(r"\bpages?\s+\d+", answer, flags=re.IGNORECASE):
         raise ValueError("LLM included an unverified document or page citation")

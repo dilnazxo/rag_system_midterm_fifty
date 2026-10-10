@@ -1,0 +1,212 @@
+[
+  {
+    "question_id": "q001",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q002",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q003",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q004",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q005",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q006",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q007",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q008",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q009",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q010",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q011",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q012",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q013",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q014",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q015",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q016",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q017",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q018",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q019",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q020",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": true,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q021",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q022",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q023",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q024",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q025",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q026",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q027",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q028",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q029",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  },
+  {
+    "question_id": "q030",
+    "status": "PROVISIONAL / AUTO-LABELED: structurally_consistent",
+    "errors": [],
+    "chunk_recall_subset": false,
+    "semantic_accuracy_verified": false
+  }
+]

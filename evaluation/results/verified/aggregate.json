@@ -1,0 +1,123 @@
+{
+  "index": {
+    "path": "C:\\Users\\Dilnaz\\rag_system_midterm_fifty\\data\\index",
+    "sha256": "a6c6ef9d1920fb3f9ba30628bccf8b7e889d1cd3624e55fc6a83ccff0412a7cd",
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "model_revision": null,
+    "chunks": 6209,
+    "dimensions": 384,
+    "documents": 50,
+    "index_type": "IndexFlatIP"
+  },
+  "coverage": {
+    "total_question_rows": 3,
+    "verified_rows": 3,
+    "evaluated_verified_rows": 3,
+    "verified_answerable_rows": 3,
+    "verified_unanswerable_rows": 0,
+    "excluded_rows": 0,
+    "excluded_by_reason": {}
+  },
+  "configurations": {
+    "A": {
+      "model_filter": false,
+      "deduplicate_pdfs": false,
+      "metrics": {
+        "recall_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "mrr_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "document_hit_at_5": {
+          "value": 1,
+          "question_denominator": 3
+        },
+        "page_hit_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "model_confusion_rate": {
+          "value": null,
+          "wrong_result_count": 0,
+          "classified_result_denominator": 0,
+          "unclassifiable_result_count": 0
+        },
+        "retrieval_latency_ms": {
+          "mean": 64.51736662226419,
+          "p95_nearest_rank": 138.32559995353222,
+          "question_denominator": 3
+        }
+      }
+    },
+    "B": {
+      "model_filter": true,
+      "deduplicate_pdfs": false,
+      "metrics": {
+        "recall_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "mrr_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "document_hit_at_5": {
+          "value": 1,
+          "question_denominator": 3
+        },
+        "page_hit_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "model_confusion_rate": {
+          "value": null,
+          "wrong_result_count": 0,
+          "classified_result_denominator": 0,
+          "unclassifiable_result_count": 0
+        },
+        "retrieval_latency_ms": {
+          "mean": 21.883799966114264,
+          "p95_nearest_rank": 25.32240003347397,
+          "question_denominator": 3
+        }
+      }
+    },
+    "C": {
+      "model_filter": true,
+      "deduplicate_pdfs": true,
+      "metrics": {
+        "recall_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "mrr_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "document_hit_at_5": {
+          "value": 1,
+          "question_denominator": 3
+        },
+        "page_hit_at_5": {
+          "value": 0.6666666666666666,
+          "question_denominator": 3
+        },
+        "model_confusion_rate": {
+          "value": null,
+          "wrong_result_count": 0,
+          "classified_result_denominator": 0,
+          "unclassifiable_result_count": 0
+        },
+        "retrieval_latency_ms": {
+          "mean": 25.2621666683505,
+          "p95_nearest_rank": 27.64230000320822,
+          "question_denominator": 3
+        }
+      }
+    }
+  },
+  "metrics_computed_only_for_verified_ground_truth": true
+}

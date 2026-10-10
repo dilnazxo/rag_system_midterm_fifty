@@ -1,0 +1,12 @@
+{
+  "selected_tables": 15,
+  "distinct_manuals": 7,
+  "by_category": {
+    "performance": 5,
+    "electrical": 7,
+    "dimensions": 3
+  },
+  "selected_candidates_returned_by_find_tables": 15,
+  "selected_candidates_missing_or_error": 0,
+  "rendered_reference_pages": 15
+}

@@ -1,0 +1,124 @@
+{
+  "source_file": "STULZ CyberRow DX Engineering Manual QEWR002L.pdf",
+  "pdf_page_index": 12,
+  "printed_page": 13,
+  "extractor": "PyMuPDF 1.28.2 page.find_tables()",
+  "table_bbox": [
+    141.88089752197266,
+    141.5237579345703,
+    450.4299120221819,
+    244.18798828125
+  ],
+  "table_count_on_page": 1,
+  "row_count": 7,
+  "column_count": 5,
+  "find_tables_header_names": [
+    "Model: CRS-",
+    "042",
+    null,
+    "084",
+    null
+  ],
+  "raw_cells": [
+    [
+      "Model: CRS-",
+      "042",
+      null,
+      "084",
+      null
+    ],
+    [
+      "Voltages",
+      "MCA",
+      "MFS",
+      "MCA",
+      "MFS"
+    ],
+    [
+      "Cooling Only (Includes Condensate Pump)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "208 V / 1 PH / 60 Hz",
+      "31.9",
+      "50",
+      "39.3",
+      "60"
+    ],
+    [
+      "208 V / 3 PH / 60 Hz",
+      "25.6",
+      "40",
+      "38.1",
+      "60"
+    ],
+    [
+      "460 V / 3 PH / 60 Hz",
+      "12.2",
+      "15",
+      "18.8",
+      "30"
+    ],
+    [
+      "575 V / 3 PH / 60 Hz",
+      "10",
+      "15",
+      "13.7",
+      "20"
+    ]
+  ],
+  "section": "Cooling Only (Includes Condensate Pump)",
+  "models": [
+    "CRS-042",
+    "CRS-084"
+  ],
+  "records": [
+    {
+      "voltage": "208 V / 1 PH / 60 Hz",
+      "CRS-042": {
+        "MCA": 31.9,
+        "MFS": 50
+      },
+      "CRS-084": {
+        "MCA": 39.3,
+        "MFS": 60
+      }
+    },
+    {
+      "voltage": "208 V / 3 PH / 60 Hz",
+      "CRS-042": {
+        "MCA": 25.6,
+        "MFS": 40
+      },
+      "CRS-084": {
+        "MCA": 38.1,
+        "MFS": 60
+      }
+    },
+    {
+      "voltage": "460 V / 3 PH / 60 Hz",
+      "CRS-042": {
+        "MCA": 12.2,
+        "MFS": 15
+      },
+      "CRS-084": {
+        "MCA": 18.8,
+        "MFS": 30
+      }
+    },
+    {
+      "voltage": "575 V / 3 PH / 60 Hz",
+      "CRS-042": {
+        "MCA": 10,
+        "MFS": 15
+      },
+      "CRS-084": {
+        "MCA": 13.7,
+        "MFS": 20
+      }
+    }
+  ]
+}
